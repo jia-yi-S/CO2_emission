@@ -1,0 +1,6992 @@
+[
+    {
+        "Entity": "Afghanistan",
+        "Code": "AFG",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "6408726.706142366"
+    },
+    {
+        "Entity": "Afghanistan",
+        "Code": "AFG",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "6517918.928897589"
+    },
+    {
+        "Entity": "Afghanistan",
+        "Code": "AFG",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "6627111.151652783"
+    },
+    {
+        "Entity": "Afghanistan",
+        "Code": "AFG",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "6736303.374407977"
+    },
+    {
+        "Entity": "Afghanistan",
+        "Code": "AFG",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "6845495.5971632"
+    },
+    {
+        "Entity": "Africa",
+        "Code": null,
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "559649964.6696262"
+    },
+    {
+        "Entity": "Africa",
+        "Code": null,
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "562621314.8492451"
+    },
+    {
+        "Entity": "Africa",
+        "Code": null,
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "565592665.028863"
+    },
+    {
+        "Entity": "Africa",
+        "Code": null,
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "568564015.2084818"
+    },
+    {
+        "Entity": "Africa",
+        "Code": null,
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "571535365.3881006"
+    },
+    {
+        "Entity": "Albania",
+        "Code": "ALB",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "6193953.9914453775"
+    },
+    {
+        "Entity": "Albania",
+        "Code": "ALB",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "6262136.727437958"
+    },
+    {
+        "Entity": "Albania",
+        "Code": "ALB",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "6330319.463430509"
+    },
+    {
+        "Entity": "Albania",
+        "Code": "ALB",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "6398502.19942309"
+    },
+    {
+        "Entity": "Albania",
+        "Code": "ALB",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "6466684.93541567"
+    },
+    {
+        "Entity": "Algeria",
+        "Code": "DZA",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "108807450.41398573"
+    },
+    {
+        "Entity": "Algeria",
+        "Code": "DZA",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "110092908.6629901"
+    },
+    {
+        "Entity": "Algeria",
+        "Code": "DZA",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "111378366.91199446"
+    },
+    {
+        "Entity": "Algeria",
+        "Code": "DZA",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "112663825.16099882"
+    },
+    {
+        "Entity": "Algeria",
+        "Code": "DZA",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "113949283.41000366"
+    },
+    {
+        "Entity": "Americas (other)",
+        "Code": null,
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "1235116118.900898"
+    },
+    {
+        "Entity": "Americas (other)",
+        "Code": null,
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "1241576369.4488544"
+    },
+    {
+        "Entity": "Americas (other)",
+        "Code": null,
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "1248036619.9968128"
+    },
+    {
+        "Entity": "Americas (other)",
+        "Code": null,
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "1254496870.5447712"
+    },
+    {
+        "Entity": "Americas (other)",
+        "Code": null,
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "1260957121.0927296"
+    },
+    {
+        "Entity": "Andorra",
+        "Code": "AND",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "540956.3726190478"
+    },
+    {
+        "Entity": "Andorra",
+        "Code": "AND",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "544477.0651149424"
+    },
+    {
+        "Entity": "Andorra",
+        "Code": "AND",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "547997.757610837"
+    },
+    {
+        "Entity": "Andorra",
+        "Code": "AND",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "551518.4501067325"
+    },
+    {
+        "Entity": "Andorra",
+        "Code": "AND",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "555039.1426026272"
+    },
+    {
+        "Entity": "Angola",
+        "Code": "AGO",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "25046556.901246786"
+    },
+    {
+        "Entity": "Angola",
+        "Code": "AGO",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "25506660.71978247"
+    },
+    {
+        "Entity": "Angola",
+        "Code": "AGO",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "25966764.538318157"
+    },
+    {
+        "Entity": "Angola",
+        "Code": "AGO",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "26426868.356853843"
+    },
+    {
+        "Entity": "Angola",
+        "Code": "AGO",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "26886972.175389647"
+    },
+    {
+        "Entity": "Anguilla",
+        "Code": "AIA",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "172002.98412698507"
+    },
+    {
+        "Entity": "Anguilla",
+        "Code": "AIA",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "176377.381234264"
+    },
+    {
+        "Entity": "Anguilla",
+        "Code": "AIA",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "180751.7783415448"
+    },
+    {
+        "Entity": "Anguilla",
+        "Code": "AIA",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "185126.17544882372"
+    },
+    {
+        "Entity": "Anguilla",
+        "Code": "AIA",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "189500.57255610265"
+    },
+    {
+        "Entity": "Antarctic Fisheries",
+        "Code": null,
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "3230.981818181812"
+    },
+    {
+        "Entity": "Antarctic Fisheries",
+        "Code": null,
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "3035.885714285716"
+    },
+    {
+        "Entity": "Antarctic Fisheries",
+        "Code": null,
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "2840.78961038962"
+    },
+    {
+        "Entity": "Antarctic Fisheries",
+        "Code": null,
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "2645.693506493524"
+    },
+    {
+        "Entity": "Antarctic Fisheries",
+        "Code": null,
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "2450.5974025974283"
+    },
+    {
+        "Entity": "Antigua and Barbuda",
+        "Code": "ATG",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "484066.581377049"
+    },
+    {
+        "Entity": "Antigua and Barbuda",
+        "Code": "ATG",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "488176.2293855101"
+    },
+    {
+        "Entity": "Antigua and Barbuda",
+        "Code": "ATG",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "492285.8773939712"
+    },
+    {
+        "Entity": "Antigua and Barbuda",
+        "Code": "ATG",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "496395.5254024323"
+    },
+    {
+        "Entity": "Antigua and Barbuda",
+        "Code": "ATG",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "500505.1734108934"
+    },
+    {
+        "Entity": "Argentina",
+        "Code": "ARG",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "162406482.08999634"
+    },
+    {
+        "Entity": "Argentina",
+        "Code": "ARG",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "163944519.99834108"
+    },
+    {
+        "Entity": "Argentina",
+        "Code": "ARG",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "165482557.90668583"
+    },
+    {
+        "Entity": "Argentina",
+        "Code": "ARG",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "167020595.81503057"
+    },
+    {
+        "Entity": "Argentina",
+        "Code": "ARG",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "168558633.7233758"
+    },
+    {
+        "Entity": "Armenia",
+        "Code": "ARM",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "5269309.847784914"
+    },
+    {
+        "Entity": "Armenia",
+        "Code": "ARM",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "5290302.734434247"
+    },
+    {
+        "Entity": "Armenia",
+        "Code": "ARM",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "5311295.6210835725"
+    },
+    {
+        "Entity": "Armenia",
+        "Code": "ARM",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "5332288.507732898"
+    },
+    {
+        "Entity": "Armenia",
+        "Code": "ARM",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "5353281.394382231"
+    },
+    {
+        "Entity": "Aruba",
+        "Code": "ABW",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "2145569.0875043795"
+    },
+    {
+        "Entity": "Aruba",
+        "Code": "ABW",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "2175149.172025718"
+    },
+    {
+        "Entity": "Aruba",
+        "Code": "ABW",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "2204729.2565470487"
+    },
+    {
+        "Entity": "Aruba",
+        "Code": "ABW",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "2234309.3410683796"
+    },
+    {
+        "Entity": "Aruba",
+        "Code": "ABW",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "2263889.4255897105"
+    },
+    {
+        "Entity": "Asia and Pacific (other)",
+        "Code": null,
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "2298380673.8924103"
+    },
+    {
+        "Entity": "Asia and Pacific (other)",
+        "Code": null,
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "2310556043.331543"
+    },
+    {
+        "Entity": "Asia and Pacific (other)",
+        "Code": null,
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "2322731412.770672"
+    },
+    {
+        "Entity": "Asia and Pacific (other)",
+        "Code": null,
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "2334906782.2098045"
+    },
+    {
+        "Entity": "Asia and Pacific (other)",
+        "Code": null,
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "2347082151.648937"
+    },
+    {
+        "Entity": "Australia",
+        "Code": "AUS",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "319481916.5364666"
+    },
+    {
+        "Entity": "Australia",
+        "Code": "AUS",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "322118436.8977356"
+    },
+    {
+        "Entity": "Australia",
+        "Code": "AUS",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "324754957.2590046"
+    },
+    {
+        "Entity": "Australia",
+        "Code": "AUS",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "327391477.6202736"
+    },
+    {
+        "Entity": "Australia",
+        "Code": "AUS",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "330027997.9815426"
+    },
+    {
+        "Entity": "Austria",
+        "Code": "AUT",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "63117380.04937732"
+    },
+    {
+        "Entity": "Austria",
+        "Code": "AUT",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "63481348.15950191"
+    },
+    {
+        "Entity": "Austria",
+        "Code": "AUT",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "63845316.2696265"
+    },
+    {
+        "Entity": "Austria",
+        "Code": "AUT",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "64209284.379751086"
+    },
+    {
+        "Entity": "Austria",
+        "Code": "AUT",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "64573252.489875674"
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Code": "AZE",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "40275969.158994734"
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Code": "AZE",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "40222015.40693863"
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Code": "AZE",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "40168061.65488252"
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Code": "AZE",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "40114107.90282641"
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Code": "AZE",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "40060154.15077031"
+    },
+    {
+        "Entity": "Bahamas",
+        "Code": "BHS",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "2641307.621791046"
+    },
+    {
+        "Entity": "Bahamas",
+        "Code": "BHS",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "2650750.1507687904"
+    },
+    {
+        "Entity": "Bahamas",
+        "Code": "BHS",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "2660192.6797465384"
+    },
+    {
+        "Entity": "Bahamas",
+        "Code": "BHS",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "2669635.2087242827"
+    },
+    {
+        "Entity": "Bahamas",
+        "Code": "BHS",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "2679077.737702027"
+    },
+    {
+        "Entity": "Bahrain",
+        "Code": "BHR",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "24744648.10624361"
+    },
+    {
+        "Entity": "Bahrain",
+        "Code": "BHR",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "25093968.225329995"
+    },
+    {
+        "Entity": "Bahrain",
+        "Code": "BHR",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "25443288.34441638"
+    },
+    {
+        "Entity": "Bahrain",
+        "Code": "BHR",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "25792608.463502765"
+    },
+    {
+        "Entity": "Bahrain",
+        "Code": "BHR",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "26141928.58258915"
+    },
+    {
+        "Entity": "Bangladesh",
+        "Code": "BGD",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "60654862.364471436"
+    },
+    {
+        "Entity": "Bangladesh",
+        "Code": "BGD",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "61907681.40377283"
+    },
+    {
+        "Entity": "Bangladesh",
+        "Code": "BGD",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "63160500.44307423"
+    },
+    {
+        "Entity": "Bangladesh",
+        "Code": "BGD",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "64413319.4823761"
+    },
+    {
+        "Entity": "Bangladesh",
+        "Code": "BGD",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "65666138.521677494"
+    },
+    {
+        "Entity": "Barbados",
+        "Code": "BRB",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "1447049.8695555553"
+    },
+    {
+        "Entity": "Barbados",
+        "Code": "BRB",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "1466275.2476361394"
+    },
+    {
+        "Entity": "Barbados",
+        "Code": "BRB",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "1485500.625716731"
+    },
+    {
+        "Entity": "Barbados",
+        "Code": "BRB",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "1504726.003797315"
+    },
+    {
+        "Entity": "Barbados",
+        "Code": "BRB",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "1523951.3818778992"
+    },
+    {
+        "Entity": "Belarus",
+        "Code": "BLR",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "72266672.63046756"
+    },
+    {
+        "Entity": "Belarus",
+        "Code": "BLR",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "72382838.63786733"
+    },
+    {
+        "Entity": "Belarus",
+        "Code": "BLR",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "72499004.6452671"
+    },
+    {
+        "Entity": "Belarus",
+        "Code": "BLR",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "72615170.65266687"
+    },
+    {
+        "Entity": "Belarus",
+        "Code": "BLR",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "72731336.66006663"
+    },
+    {
+        "Entity": "Belgium",
+        "Code": "BEL",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "134027181.65170646"
+    },
+    {
+        "Entity": "Belgium",
+        "Code": "BEL",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "134754219.17856002"
+    },
+    {
+        "Entity": "Belgium",
+        "Code": "BEL",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "135481256.70541358"
+    },
+    {
+        "Entity": "Belgium",
+        "Code": "BEL",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "136208294.23226738"
+    },
+    {
+        "Entity": "Belgium",
+        "Code": "BEL",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "136935331.75912094"
+    },
+    {
+        "Entity": "Belize",
+        "Code": "BLZ",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "551359.6961062327"
+    },
+    {
+        "Entity": "Belize",
+        "Code": "BLZ",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "560025.6135040261"
+    },
+    {
+        "Entity": "Belize",
+        "Code": "BLZ",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "568691.5309018195"
+    },
+    {
+        "Entity": "Belize",
+        "Code": "BLZ",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "577357.4482996128"
+    },
+    {
+        "Entity": "Belize",
+        "Code": "BLZ",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "586023.3656974062"
+    },
+    {
+        "Entity": "Benin",
+        "Code": "BEN",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "4647699.5654067695"
+    },
+    {
+        "Entity": "Benin",
+        "Code": "BEN",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "4746098.347010285"
+    },
+    {
+        "Entity": "Benin",
+        "Code": "BEN",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "4844497.12861377"
+    },
+    {
+        "Entity": "Benin",
+        "Code": "BEN",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "4942895.910217285"
+    },
+    {
+        "Entity": "Benin",
+        "Code": "BEN",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "5041294.6918207705"
+    },
+    {
+        "Entity": "Bermuda",
+        "Code": "BMU",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "694102.8847058807"
+    },
+    {
+        "Entity": "Bermuda",
+        "Code": "BMU",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "702650.3237084392"
+    },
+    {
+        "Entity": "Bermuda",
+        "Code": "BMU",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "711197.7627109978"
+    },
+    {
+        "Entity": "Bermuda",
+        "Code": "BMU",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "719745.2017135564"
+    },
+    {
+        "Entity": "Bermuda",
+        "Code": "BMU",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "728292.6407161113"
+    },
+    {
+        "Entity": "Bhutan",
+        "Code": "BTN",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "772534.7131826282"
+    },
+    {
+        "Entity": "Bhutan",
+        "Code": "BTN",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "792363.7917138934"
+    },
+    {
+        "Entity": "Bhutan",
+        "Code": "BTN",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "812192.8702451512"
+    },
+    {
+        "Entity": "Bhutan",
+        "Code": "BTN",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "832021.9487764165"
+    },
+    {
+        "Entity": "Bhutan",
+        "Code": "BTN",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "851851.0273076817"
+    },
+    {
+        "Entity": "Bolivia",
+        "Code": "BOL",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "14288647.680064917"
+    },
+    {
+        "Entity": "Bolivia",
+        "Code": "BOL",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "14490031.776061475"
+    },
+    {
+        "Entity": "Bolivia",
+        "Code": "BOL",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "14691415.872057974"
+    },
+    {
+        "Entity": "Bolivia",
+        "Code": "BOL",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "14892799.968054533"
+    },
+    {
+        "Entity": "Bolivia",
+        "Code": "BOL",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "15094184.064051092"
+    },
+    {
+        "Entity": "Bonaire Sint Eustatius and Saba",
+        "Code": "BES",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "152800.85243403912"
+    },
+    {
+        "Entity": "Bonaire Sint Eustatius and Saba",
+        "Code": "BES",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "145832.20497894287"
+    },
+    {
+        "Entity": "Bonaire Sint Eustatius and Saba",
+        "Code": "BES",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "138863.55752384663"
+    },
+    {
+        "Entity": "Bonaire Sint Eustatius and Saba",
+        "Code": "BES",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "131894.91006875038"
+    },
+    {
+        "Entity": "Bonaire Sint Eustatius and Saba",
+        "Code": "BES",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "124926.26261365414"
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Code": "BIH",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "21459992.231589735"
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Code": "BIH",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "21701048.2675184"
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Code": "BIH",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "21942104.303447127"
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Code": "BIH",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "22183160.339375794"
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Code": "BIH",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "22424216.37530452"
+    },
+    {
+        "Entity": "Botswana",
+        "Code": "BWA",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "6218795.7588406205"
+    },
+    {
+        "Entity": "Botswana",
+        "Code": "BWA",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "6361730.2246284485"
+    },
+    {
+        "Entity": "Botswana",
+        "Code": "BWA",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "6504664.690416276"
+    },
+    {
+        "Entity": "Botswana",
+        "Code": "BWA",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "6647599.156204164"
+    },
+    {
+        "Entity": "Botswana",
+        "Code": "BWA",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "6790533.621991992"
+    },
+    {
+        "Entity": "Brazil",
+        "Code": "BRA",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "351402242.96388626"
+    },
+    {
+        "Entity": "Brazil",
+        "Code": "BRA",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "355302454.06152725"
+    },
+    {
+        "Entity": "Brazil",
+        "Code": "BRA",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "359202665.15916824"
+    },
+    {
+        "Entity": "Brazil",
+        "Code": "BRA",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "363102876.25680923"
+    },
+    {
+        "Entity": "Brazil",
+        "Code": "BRA",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "367003087.3544493"
+    },
+    {
+        "Entity": "British Virgin Islands",
+        "Code": "VGB",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "181103.38843506481"
+    },
+    {
+        "Entity": "British Virgin Islands",
+        "Code": "VGB",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "184690.52258441597"
+    },
+    {
+        "Entity": "British Virgin Islands",
+        "Code": "VGB",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "188277.6567337662"
+    },
+    {
+        "Entity": "British Virgin Islands",
+        "Code": "VGB",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "191864.79088311736"
+    },
+    {
+        "Entity": "British Virgin Islands",
+        "Code": "VGB",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "195451.92503246758"
+    },
+    {
+        "Entity": "Brunei",
+        "Code": "BRN",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "7957198.704286844"
+    },
+    {
+        "Entity": "Brunei",
+        "Code": "BRN",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "8050217.815864265"
+    },
+    {
+        "Entity": "Brunei",
+        "Code": "BRN",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "8143236.927441716"
+    },
+    {
+        "Entity": "Brunei",
+        "Code": "BRN",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "8236256.039019138"
+    },
+    {
+        "Entity": "Brunei",
+        "Code": "BRN",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "8329275.150596589"
+    },
+    {
+        "Entity": "Bulgaria",
+        "Code": "BGR",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "69673149.30441666"
+    },
+    {
+        "Entity": "Bulgaria",
+        "Code": "BGR",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "70287875.08702135"
+    },
+    {
+        "Entity": "Bulgaria",
+        "Code": "BGR",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "70902600.86962605"
+    },
+    {
+        "Entity": "Bulgaria",
+        "Code": "BGR",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "71517326.65223074"
+    },
+    {
+        "Entity": "Bulgaria",
+        "Code": "BGR",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "72132052.43483543"
+    },
+    {
+        "Entity": "Burkina Faso",
+        "Code": "BFA",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "2166064.2871412486"
+    },
+    {
+        "Entity": "Burkina Faso",
+        "Code": "BFA",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "2209641.214074835"
+    },
+    {
+        "Entity": "Burkina Faso",
+        "Code": "BFA",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "2253218.1410084367"
+    },
+    {
+        "Entity": "Burkina Faso",
+        "Code": "BFA",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "2296795.0679420233"
+    },
+    {
+        "Entity": "Burkina Faso",
+        "Code": "BFA",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "2340371.99487561"
+    },
+    {
+        "Entity": "Burundi",
+        "Code": "BDI",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "348676.276803039"
+    },
+    {
+        "Entity": "Burundi",
+        "Code": "BDI",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "354237.6612840444"
+    },
+    {
+        "Entity": "Burundi",
+        "Code": "BDI",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "359799.04576504976"
+    },
+    {
+        "Entity": "Burundi",
+        "Code": "BDI",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "365360.4302460551"
+    },
+    {
+        "Entity": "Burundi",
+        "Code": "BDI",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "370921.8147270605"
+    },
+    {
+        "Entity": "Cambodia",
+        "Code": "KHM",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "4628548.844126999"
+    },
+    {
+        "Entity": "Cambodia",
+        "Code": "KHM",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "4720995.932519853"
+    },
+    {
+        "Entity": "Cambodia",
+        "Code": "KHM",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "4813443.020912707"
+    },
+    {
+        "Entity": "Cambodia",
+        "Code": "KHM",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "4905890.109305561"
+    },
+    {
+        "Entity": "Cambodia",
+        "Code": "KHM",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "4998337.197698414"
+    },
+    {
+        "Entity": "Cameroon",
+        "Code": "CMR",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "6462490.250632107"
+    },
+    {
+        "Entity": "Cameroon",
+        "Code": "CMR",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "6566788.227376789"
+    },
+    {
+        "Entity": "Cameroon",
+        "Code": "CMR",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "6671086.204121441"
+    },
+    {
+        "Entity": "Cameroon",
+        "Code": "CMR",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "6775384.180866122"
+    },
+    {
+        "Entity": "Cameroon",
+        "Code": "CMR",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "6879682.157610774"
+    },
+    {
+        "Entity": "Canada",
+        "Code": "CAN",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "422908856.6030712"
+    },
+    {
+        "Entity": "Canada",
+        "Code": "CAN",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "425352796.35994434"
+    },
+    {
+        "Entity": "Canada",
+        "Code": "CAN",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "427796736.1168175"
+    },
+    {
+        "Entity": "Canada",
+        "Code": "CAN",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "430240675.8736906"
+    },
+    {
+        "Entity": "Canada",
+        "Code": "CAN",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "432684615.63056374"
+    },
+    {
+        "Entity": "Cape Verde",
+        "Code": "CPV",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "439455.3991747163"
+    },
+    {
+        "Entity": "Cape Verde",
+        "Code": "CPV",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "447260.30955147557"
+    },
+    {
+        "Entity": "Cape Verde",
+        "Code": "CPV",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "455065.2199282367"
+    },
+    {
+        "Entity": "Cape Verde",
+        "Code": "CPV",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "462870.1303049978"
+    },
+    {
+        "Entity": "Cape Verde",
+        "Code": "CPV",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "470675.0406817589"
+    },
+    {
+        "Entity": "Cayman Islands",
+        "Code": "CYM",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "622218.9381648153"
+    },
+    {
+        "Entity": "Cayman Islands",
+        "Code": "CYM",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "633851.4421975464"
+    },
+    {
+        "Entity": "Cayman Islands",
+        "Code": "CYM",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "645483.9462302737"
+    },
+    {
+        "Entity": "Cayman Islands",
+        "Code": "CYM",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "657116.4502630048"
+    },
+    {
+        "Entity": "Cayman Islands",
+        "Code": "CYM",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "668748.9542957358"
+    },
+    {
+        "Entity": "Central African Republic",
+        "Code": "CAF",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "308665.1000409117"
+    },
+    {
+        "Entity": "Central African Republic",
+        "Code": "CAF",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "312486.10499707796"
+    },
+    {
+        "Entity": "Central African Republic",
+        "Code": "CAF",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "316307.1099532433"
+    },
+    {
+        "Entity": "Central African Republic",
+        "Code": "CAF",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "320128.11490940955"
+    },
+    {
+        "Entity": "Central African Republic",
+        "Code": "CAF",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "323949.1198655758"
+    },
+    {
+        "Entity": "Chad",
+        "Code": "TCD",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "509685.62087083235"
+    },
+    {
+        "Entity": "Chad",
+        "Code": "TCD",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "518533.8644196354"
+    },
+    {
+        "Entity": "Chad",
+        "Code": "TCD",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "527382.1079684384"
+    },
+    {
+        "Entity": "Chad",
+        "Code": "TCD",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "536230.3515172377"
+    },
+    {
+        "Entity": "Chad",
+        "Code": "TCD",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "545078.5950660408"
+    },
+    {
+        "Entity": "Chile",
+        "Code": "CHL",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "58109053.51998925"
+    },
+    {
+        "Entity": "Chile",
+        "Code": "CHL",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "58697817.52442908"
+    },
+    {
+        "Entity": "Chile",
+        "Code": "CHL",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "59286581.52886915"
+    },
+    {
+        "Entity": "Chile",
+        "Code": "CHL",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "59875345.53330898"
+    },
+    {
+        "Entity": "Chile",
+        "Code": "CHL",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "60464109.53774881"
+    },
+    {
+        "Entity": "China",
+        "Code": "CHN",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "2784522278.524082"
+    },
+    {
+        "Entity": "China",
+        "Code": "CHN",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "2799364591.93602"
+    },
+    {
+        "Entity": "China",
+        "Code": "CHN",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "2814206905.347954"
+    },
+    {
+        "Entity": "China",
+        "Code": "CHN",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "2829049218.7598915"
+    },
+    {
+        "Entity": "China",
+        "Code": "CHN",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "2843891532.1718254"
+    },
+    {
+        "Entity": "Christmas Island",
+        "Code": "CXR",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "104025.38901098899"
+    },
+    {
+        "Entity": "Christmas Island",
+        "Code": "CXR",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "104242.8131868132"
+    },
+    {
+        "Entity": "Christmas Island",
+        "Code": "CXR",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "104460.23736263736"
+    },
+    {
+        "Entity": "Christmas Island",
+        "Code": "CXR",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "104677.66153846151"
+    },
+    {
+        "Entity": "Christmas Island",
+        "Code": "CXR",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "104895.08571428573"
+    },
+    {
+        "Entity": "Colombia",
+        "Code": "COL",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "78163791.69040585"
+    },
+    {
+        "Entity": "Colombia",
+        "Code": "COL",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "79104638.91430426"
+    },
+    {
+        "Entity": "Colombia",
+        "Code": "COL",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "80045486.13820267"
+    },
+    {
+        "Entity": "Colombia",
+        "Code": "COL",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "80986333.36210132"
+    },
+    {
+        "Entity": "Colombia",
+        "Code": "COL",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "81927180.58599973"
+    },
+    {
+        "Entity": "Comoros",
+        "Code": "COM",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "158574.34655172378"
+    },
+    {
+        "Entity": "Comoros",
+        "Code": "COM",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "161475.36600175314"
+    },
+    {
+        "Entity": "Comoros",
+        "Code": "COM",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "164376.3854517825"
+    },
+    {
+        "Entity": "Comoros",
+        "Code": "COM",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "167277.40490181185"
+    },
+    {
+        "Entity": "Comoros",
+        "Code": "COM",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "170178.4243518412"
+    },
+    {
+        "Entity": "Republic of the Congo",
+        "Code": "COG",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "2344741.835826993"
+    },
+    {
+        "Entity": "Republic of the Congo",
+        "Code": "COG",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "2383027.9284336567"
+    },
+    {
+        "Entity": "Republic of the Congo",
+        "Code": "COG",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "2421314.0210403204"
+    },
+    {
+        "Entity": "Republic of the Congo",
+        "Code": "COG",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "2459600.113646984"
+    },
+    {
+        "Entity": "Republic of the Congo",
+        "Code": "COG",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "2497886.206253648"
+    },
+    {
+        "Entity": "Cook Islands",
+        "Code": "COK",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "74782.11438775528"
+    },
+    {
+        "Entity": "Cook Islands",
+        "Code": "COK",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "76104.11544489814"
+    },
+    {
+        "Entity": "Cook Islands",
+        "Code": "COK",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "77426.116502041"
+    },
+    {
+        "Entity": "Cook Islands",
+        "Code": "COK",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "78748.11755918385"
+    },
+    {
+        "Entity": "Cook Islands",
+        "Code": "COK",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "80070.11861632671"
+    },
+    {
+        "Entity": "Costa Rica",
+        "Code": "CRI",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "7959341.338555723"
+    },
+    {
+        "Entity": "Costa Rica",
+        "Code": "CRI",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "8091286.190346777"
+    },
+    {
+        "Entity": "Costa Rica",
+        "Code": "CRI",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "8223231.042137831"
+    },
+    {
+        "Entity": "Costa Rica",
+        "Code": "CRI",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "8355175.893928856"
+    },
+    {
+        "Entity": "Costa Rica",
+        "Code": "CRI",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "8487120.74571991"
+    },
+    {
+        "Entity": "Cote d'Ivoire",
+        "Code": "CIV",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "9524399.402553678"
+    },
+    {
+        "Entity": "Cote d'Ivoire",
+        "Code": "CIV",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "9670875.250265837"
+    },
+    {
+        "Entity": "Cote d'Ivoire",
+        "Code": "CIV",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "9817351.097977996"
+    },
+    {
+        "Entity": "Cote d'Ivoire",
+        "Code": "CIV",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "9963826.945690155"
+    },
+    {
+        "Entity": "Cote d'Ivoire",
+        "Code": "CIV",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "10110302.793402255"
+    },
+    {
+        "Entity": "Croatia",
+        "Code": "HRV",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "24390539.267831624"
+    },
+    {
+        "Entity": "Croatia",
+        "Code": "HRV",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "24648897.922273457"
+    },
+    {
+        "Entity": "Croatia",
+        "Code": "HRV",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "24907256.57671535"
+    },
+    {
+        "Entity": "Croatia",
+        "Code": "HRV",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "25165615.231157184"
+    },
+    {
+        "Entity": "Croatia",
+        "Code": "HRV",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "25423973.885599017"
+    },
+    {
+        "Entity": "Cuba",
+        "Code": "CUB",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "39670277.68053317"
+    },
+    {
+        "Entity": "Cuba",
+        "Code": "CUB",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "40135683.740177155"
+    },
+    {
+        "Entity": "Cuba",
+        "Code": "CUB",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "40601089.79982126"
+    },
+    {
+        "Entity": "Cuba",
+        "Code": "CUB",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "41066495.85946524"
+    },
+    {
+        "Entity": "Cuba",
+        "Code": "CUB",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "41531901.919109344"
+    },
+    {
+        "Entity": "Curacao",
+        "Code": "CUW",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "3252032.3405902684"
+    },
+    {
+        "Entity": "Curacao",
+        "Code": "CUW",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "3125335.2621466815"
+    },
+    {
+        "Entity": "Curacao",
+        "Code": "CUW",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "2998638.1837030947"
+    },
+    {
+        "Entity": "Curacao",
+        "Code": "CUW",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "2871941.105259478"
+    },
+    {
+        "Entity": "Curacao",
+        "Code": "CUW",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "2745244.0268158913"
+    },
+    {
+        "Entity": "Cyprus",
+        "Code": "CYP",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "8656048.002418786"
+    },
+    {
+        "Entity": "Cyprus",
+        "Code": "CYP",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "8791463.65782991"
+    },
+    {
+        "Entity": "Cyprus",
+        "Code": "CYP",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "8926879.313241035"
+    },
+    {
+        "Entity": "Cyprus",
+        "Code": "CYP",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "9062294.968652159"
+    },
+    {
+        "Entity": "Cyprus",
+        "Code": "CYP",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "9197710.624063283"
+    },
+    {
+        "Entity": "Czech Republic",
+        "Code": "CZE",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "126082998.43409121"
+    },
+    {
+        "Entity": "Czech Republic",
+        "Code": "CZE",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "125584304.8970468"
+    },
+    {
+        "Entity": "Czech Republic",
+        "Code": "CZE",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "125085611.3600024"
+    },
+    {
+        "Entity": "Czech Republic",
+        "Code": "CZE",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "124586917.822958"
+    },
+    {
+        "Entity": "Czech Republic",
+        "Code": "CZE",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "124088224.28591359"
+    },
+    {
+        "Entity": "Czechoslovakia",
+        "Code": "OWID_CZS",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "251183847.08629322"
+    },
+    {
+        "Entity": "Czechoslovakia",
+        "Code": "OWID_CZS",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "252978672.55978966"
+    },
+    {
+        "Entity": "Czechoslovakia",
+        "Code": "OWID_CZS",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "254773498.0332861"
+    },
+    {
+        "Entity": "Czechoslovakia",
+        "Code": "OWID_CZS",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "256568323.50678253"
+    },
+    {
+        "Entity": "Czechoslovakia",
+        "Code": "OWID_CZS",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "258363148.98027897"
+    },
+    {
+        "Entity": "Democratic Republic of Republic of the Congo",
+        "Code": "COD",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "3595100.7623038143"
+    },
+    {
+        "Entity": "Democratic Republic of Republic of the Congo",
+        "Code": "COD",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "3628214.8822761476"
+    },
+    {
+        "Entity": "Democratic Republic of Republic of the Congo",
+        "Code": "COD",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "3661329.0022484735"
+    },
+    {
+        "Entity": "Democratic Republic of Republic of the Congo",
+        "Code": "COD",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "3694443.122220807"
+    },
+    {
+        "Entity": "Democratic Republic of Republic of the Congo",
+        "Code": "COD",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "3727557.2421931326"
+    },
+    {
+        "Entity": "Denmark",
+        "Code": "DNK",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "58486907.0372473"
+    },
+    {
+        "Entity": "Denmark",
+        "Code": "DNK",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "58892326.216537476"
+    },
+    {
+        "Entity": "Denmark",
+        "Code": "DNK",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "59297745.39582765"
+    },
+    {
+        "Entity": "Denmark",
+        "Code": "DNK",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "59703164.57511771"
+    },
+    {
+        "Entity": "Denmark",
+        "Code": "DNK",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "60108583.75440788"
+    },
+    {
+        "Entity": "Djibouti",
+        "Code": "DJI",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "601070.0714354701"
+    },
+    {
+        "Entity": "Djibouti",
+        "Code": "DJI",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "610319.2148274593"
+    },
+    {
+        "Entity": "Djibouti",
+        "Code": "DJI",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "619568.3582194522"
+    },
+    {
+        "Entity": "Djibouti",
+        "Code": "DJI",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "628817.5016114451"
+    },
+    {
+        "Entity": "Djibouti",
+        "Code": "DJI",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "638066.6450034343"
+    },
+    {
+        "Entity": "Dominica",
+        "Code": "DMA",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "137913.1043826323"
+    },
+    {
+        "Entity": "Dominica",
+        "Code": "DMA",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "140247.75649573002"
+    },
+    {
+        "Entity": "Dominica",
+        "Code": "DMA",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "142582.40860882774"
+    },
+    {
+        "Entity": "Dominica",
+        "Code": "DMA",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "144917.06072192546"
+    },
+    {
+        "Entity": "Dominica",
+        "Code": "DMA",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "147251.71283502318"
+    },
+    {
+        "Entity": "Dominican Republic",
+        "Code": "DOM",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "22727259.15771818"
+    },
+    {
+        "Entity": "Dominican Republic",
+        "Code": "DOM",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "23097915.167995214"
+    },
+    {
+        "Entity": "Dominican Republic",
+        "Code": "DOM",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "23468571.178272247"
+    },
+    {
+        "Entity": "Dominican Republic",
+        "Code": "DOM",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "23839227.18854916"
+    },
+    {
+        "Entity": "Dominican Republic",
+        "Code": "DOM",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "24209883.198826194"
+    },
+    {
+        "Entity": "EU-28",
+        "Code": null,
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "3724500806.253216"
+    },
+    {
+        "Entity": "EU-28",
+        "Code": null,
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "3742433151.8143578"
+    },
+    {
+        "Entity": "EU-28",
+        "Code": null,
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "3760365497.3755074"
+    },
+    {
+        "Entity": "EU-28",
+        "Code": null,
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "3778297842.9366493"
+    },
+    {
+        "Entity": "EU-28",
+        "Code": null,
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "3796230188.4977913"
+    },
+    {
+        "Entity": "Ecuador",
+        "Code": "ECU",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "31053987.459996104"
+    },
+    {
+        "Entity": "Ecuador",
+        "Code": "ECU",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "31449205.353300214"
+    },
+    {
+        "Entity": "Ecuador",
+        "Code": "ECU",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "31844423.246604323"
+    },
+    {
+        "Entity": "Ecuador",
+        "Code": "ECU",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "32239641.139908433"
+    },
+    {
+        "Entity": "Ecuador",
+        "Code": "ECU",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "32634859.033212543"
+    },
+    {
+        "Entity": "Egypt",
+        "Code": "EGY",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "153600075.7942586"
+    },
+    {
+        "Entity": "Egypt",
+        "Code": "EGY",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "155482037.84933233"
+    },
+    {
+        "Entity": "Egypt",
+        "Code": "EGY",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "157363999.90440607"
+    },
+    {
+        "Entity": "Egypt",
+        "Code": "EGY",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "159245961.9594798"
+    },
+    {
+        "Entity": "Egypt",
+        "Code": "EGY",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "161127924.01455355"
+    },
+    {
+        "Entity": "El Salvador",
+        "Code": "SLV",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "6998814.120403886"
+    },
+    {
+        "Entity": "El Salvador",
+        "Code": "SLV",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "7110766.115232289"
+    },
+    {
+        "Entity": "El Salvador",
+        "Code": "SLV",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "7222718.110060692"
+    },
+    {
+        "Entity": "El Salvador",
+        "Code": "SLV",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "7334670.104889125"
+    },
+    {
+        "Entity": "El Salvador",
+        "Code": "SLV",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "7446622.099717528"
+    },
+    {
+        "Entity": "Equatorial Guinea",
+        "Code": "GNQ",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "4387121.346062332"
+    },
+    {
+        "Entity": "Equatorial Guinea",
+        "Code": "GNQ",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "4475006.053684771"
+    },
+    {
+        "Entity": "Equatorial Guinea",
+        "Code": "GNQ",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "4562890.76130721"
+    },
+    {
+        "Entity": "Equatorial Guinea",
+        "Code": "GNQ",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "4650775.468929648"
+    },
+    {
+        "Entity": "Equatorial Guinea",
+        "Code": "GNQ",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "4738660.176552087"
+    },
+    {
+        "Entity": "Eritrea",
+        "Code": "ERI",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "782650.4884384573"
+    },
+    {
+        "Entity": "Eritrea",
+        "Code": "ERI",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "792061.597889252"
+    },
+    {
+        "Entity": "Eritrea",
+        "Code": "ERI",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "801472.7073400468"
+    },
+    {
+        "Entity": "Eritrea",
+        "Code": "ERI",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "810883.8167908415"
+    },
+    {
+        "Entity": "Eritrea",
+        "Code": "ERI",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "820294.9262416363"
+    },
+    {
+        "Entity": "Estonia",
+        "Code": "EST",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "25787617.199584186"
+    },
+    {
+        "Entity": "Estonia",
+        "Code": "EST",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "26033004.597278297"
+    },
+    {
+        "Entity": "Estonia",
+        "Code": "EST",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "26278391.994972467"
+    },
+    {
+        "Entity": "Estonia",
+        "Code": "EST",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "26523779.39266658"
+    },
+    {
+        "Entity": "Estonia",
+        "Code": "EST",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "26769166.79036069"
+    },
+    {
+        "Entity": "Ethiopia",
+        "Code": "ETH",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "7481560.467228949"
+    },
+    {
+        "Entity": "Ethiopia",
+        "Code": "ETH",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "7606500.916811585"
+    },
+    {
+        "Entity": "Ethiopia",
+        "Code": "ETH",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "7731441.366394252"
+    },
+    {
+        "Entity": "Ethiopia",
+        "Code": "ETH",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "7856381.815976888"
+    },
+    {
+        "Entity": "Ethiopia",
+        "Code": "ETH",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "7981322.265559524"
+    },
+    {
+        "Entity": "Europe (other)",
+        "Code": null,
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "1898898448.1726227"
+    },
+    {
+        "Entity": "Europe (other)",
+        "Code": null,
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "1908666062.2254486"
+    },
+    {
+        "Entity": "Europe (other)",
+        "Code": null,
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "1918433676.2782784"
+    },
+    {
+        "Entity": "Europe (other)",
+        "Code": null,
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "1928201290.3311043"
+    },
+    {
+        "Entity": "Europe (other)",
+        "Code": null,
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "1937968904.383934"
+    },
+    {
+        "Entity": "Faeroe Islands",
+        "Code": "FRO",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "806665.2531167679"
+    },
+    {
+        "Entity": "Faeroe Islands",
+        "Code": "FRO",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "817879.1907348149"
+    },
+    {
+        "Entity": "Faeroe Islands",
+        "Code": "FRO",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "829093.1283528619"
+    },
+    {
+        "Entity": "Faeroe Islands",
+        "Code": "FRO",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "840307.0659709126"
+    },
+    {
+        "Entity": "Faeroe Islands",
+        "Code": "FRO",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "851521.0035889596"
+    },
+    {
+        "Entity": "Falkland Islands",
+        "Code": "FLK",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "-20428.963950467296"
+    },
+    {
+        "Entity": "Falkland Islands",
+        "Code": "FLK",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "-23138.561776829883"
+    },
+    {
+        "Entity": "Falkland Islands",
+        "Code": "FLK",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "-25848.159603193402"
+    },
+    {
+        "Entity": "Falkland Islands",
+        "Code": "FLK",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "-28557.75742955599"
+    },
+    {
+        "Entity": "Falkland Islands",
+        "Code": "FLK",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "-31267.355255918577"
+    },
+    {
+        "Entity": "Fiji",
+        "Code": "FJI",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "1226578.3412291482"
+    },
+    {
+        "Entity": "Fiji",
+        "Code": "FJI",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "1242881.1959493458"
+    },
+    {
+        "Entity": "Fiji",
+        "Code": "FJI",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "1259184.0506695434"
+    },
+    {
+        "Entity": "Fiji",
+        "Code": "FJI",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "1275486.905389741"
+    },
+    {
+        "Entity": "Fiji",
+        "Code": "FJI",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "1291789.7601099387"
+    },
+    {
+        "Entity": "Finland",
+        "Code": "FIN",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "56401284.50971377"
+    },
+    {
+        "Entity": "Finland",
+        "Code": "FIN",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "56866683.32702255"
+    },
+    {
+        "Entity": "Finland",
+        "Code": "FIN",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "57332082.14433122"
+    },
+    {
+        "Entity": "Finland",
+        "Code": "FIN",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "57797480.96163988"
+    },
+    {
+        "Entity": "Finland",
+        "Code": "FIN",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "58262879.778948665"
+    },
+    {
+        "Entity": "France",
+        "Code": "FRA",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "436367518.5801096"
+    },
+    {
+        "Entity": "France",
+        "Code": "FRA",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "438797776.787735"
+    },
+    {
+        "Entity": "France",
+        "Code": "FRA",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "441228034.9953604"
+    },
+    {
+        "Entity": "France",
+        "Code": "FRA",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "443658293.20298576"
+    },
+    {
+        "Entity": "France",
+        "Code": "FRA",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "446088551.41061115"
+    },
+    {
+        "Entity": "French Guiana",
+        "Code": "GUF",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "768752.6797202826"
+    },
+    {
+        "Entity": "French Guiana",
+        "Code": "GUF",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "780978.2370629385"
+    },
+    {
+        "Entity": "French Guiana",
+        "Code": "GUF",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "793203.7944055982"
+    },
+    {
+        "Entity": "French Guiana",
+        "Code": "GUF",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "805429.3517482542"
+    },
+    {
+        "Entity": "French Guiana",
+        "Code": "GUF",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "817654.9090909101"
+    },
+    {
+        "Entity": "French Polynesia",
+        "Code": "PYF",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "913100.0845929347"
+    },
+    {
+        "Entity": "French Polynesia",
+        "Code": "PYF",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "928151.05548051"
+    },
+    {
+        "Entity": "French Polynesia",
+        "Code": "PYF",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "943202.026368089"
+    },
+    {
+        "Entity": "French Polynesia",
+        "Code": "PYF",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "958252.9972556643"
+    },
+    {
+        "Entity": "French Polynesia",
+        "Code": "PYF",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "973303.9681432433"
+    },
+    {
+        "Entity": "Gabon",
+        "Code": "GAB",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "6161389.038445339"
+    },
+    {
+        "Entity": "Gabon",
+        "Code": "GAB",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "6227953.049314424"
+    },
+    {
+        "Entity": "Gabon",
+        "Code": "GAB",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "6294517.06018351"
+    },
+    {
+        "Entity": "Gabon",
+        "Code": "GAB",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "6361081.071052596"
+    },
+    {
+        "Entity": "Gabon",
+        "Code": "GAB",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "6427645.081921682"
+    },
+    {
+        "Entity": "Gambia",
+        "Code": "GMB",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "430106.57578577846"
+    },
+    {
+        "Entity": "Gambia",
+        "Code": "GMB",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "437445.1420319136"
+    },
+    {
+        "Entity": "Gambia",
+        "Code": "GMB",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "444783.7082780488"
+    },
+    {
+        "Entity": "Gambia",
+        "Code": "GMB",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "452122.27452418394"
+    },
+    {
+        "Entity": "Gambia",
+        "Code": "GMB",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "459460.8407703191"
+    },
+    {
+        "Entity": "Georgia",
+        "Code": "GEO",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "7624959.932495624"
+    },
+    {
+        "Entity": "Georgia",
+        "Code": "GEO",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "7544028.554059029"
+    },
+    {
+        "Entity": "Georgia",
+        "Code": "GEO",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "7463097.175622433"
+    },
+    {
+        "Entity": "Georgia",
+        "Code": "GEO",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "7382165.797185838"
+    },
+    {
+        "Entity": "Georgia",
+        "Code": "GEO",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "7301234.418749273"
+    },
+    {
+        "Entity": "Germany",
+        "Code": "DEU",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "1020652485.5814419"
+    },
+    {
+        "Entity": "Germany",
+        "Code": "DEU",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "1026114332.3598557"
+    },
+    {
+        "Entity": "Germany",
+        "Code": "DEU",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "1031576179.1382694"
+    },
+    {
+        "Entity": "Germany",
+        "Code": "DEU",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "1037038025.9166832"
+    },
+    {
+        "Entity": "Germany",
+        "Code": "DEU",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "1042499872.6950989"
+    },
+    {
+        "Entity": "Ghana",
+        "Code": "GHA",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "10738518.459701538"
+    },
+    {
+        "Entity": "Ghana",
+        "Code": "GHA",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "10914945.469070554"
+    },
+    {
+        "Entity": "Ghana",
+        "Code": "GHA",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "11091372.47843957"
+    },
+    {
+        "Entity": "Ghana",
+        "Code": "GHA",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "11267799.487808585"
+    },
+    {
+        "Entity": "Ghana",
+        "Code": "GHA",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "11444226.4971776"
+    },
+    {
+        "Entity": "Gibraltar",
+        "Code": "GIB",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "427948.79440559447"
+    },
+    {
+        "Entity": "Gibraltar",
+        "Code": "GIB",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "434972.84895104915"
+    },
+    {
+        "Entity": "Gibraltar",
+        "Code": "GIB",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "441996.90349650383"
+    },
+    {
+        "Entity": "Gibraltar",
+        "Code": "GIB",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "449020.9580419585"
+    },
+    {
+        "Entity": "Gibraltar",
+        "Code": "GIB",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "456045.0125874132"
+    },
+    {
+        "Entity": "Greece",
+        "Code": "GRC",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "82114209.26109052"
+    },
+    {
+        "Entity": "Greece",
+        "Code": "GRC",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "82879658.56565595"
+    },
+    {
+        "Entity": "Greece",
+        "Code": "GRC",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "83645107.87022161"
+    },
+    {
+        "Entity": "Greece",
+        "Code": "GRC",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "84410557.17478704"
+    },
+    {
+        "Entity": "Greece",
+        "Code": "GRC",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "85176006.47935271"
+    },
+    {
+        "Entity": "Greenland",
+        "Code": "GRL",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "670952.2123222128"
+    },
+    {
+        "Entity": "Greenland",
+        "Code": "GRL",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "677507.3093375191"
+    },
+    {
+        "Entity": "Greenland",
+        "Code": "GRL",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "684062.4063528273"
+    },
+    {
+        "Entity": "Greenland",
+        "Code": "GRL",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "690617.5033681337"
+    },
+    {
+        "Entity": "Greenland",
+        "Code": "GRL",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "697172.6003834419"
+    },
+    {
+        "Entity": "Grenada",
+        "Code": "GRD",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "260725.83199297823"
+    },
+    {
+        "Entity": "Grenada",
+        "Code": "GRD",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "265157.6376560312"
+    },
+    {
+        "Entity": "Grenada",
+        "Code": "GRD",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "269589.4433190841"
+    },
+    {
+        "Entity": "Grenada",
+        "Code": "GRD",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "274021.24898213707"
+    },
+    {
+        "Entity": "Grenada",
+        "Code": "GRD",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "278453.05464519"
+    },
+    {
+        "Entity": "Guadeloupe",
+        "Code": "GLP",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "2592559.283916086"
+    },
+    {
+        "Entity": "Guadeloupe",
+        "Code": "GLP",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "2636333.8349650353"
+    },
+    {
+        "Entity": "Guadeloupe",
+        "Code": "GLP",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "2680108.3860139847"
+    },
+    {
+        "Entity": "Guadeloupe",
+        "Code": "GLP",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "2723882.937062934"
+    },
+    {
+        "Entity": "Guadeloupe",
+        "Code": "GLP",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "2767657.4881118834"
+    },
+    {
+        "Entity": "Guatemala",
+        "Code": "GTM",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "13525882.811025321"
+    },
+    {
+        "Entity": "Guatemala",
+        "Code": "GTM",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "13738028.256166518"
+    },
+    {
+        "Entity": "Guatemala",
+        "Code": "GTM",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "13950173.701307654"
+    },
+    {
+        "Entity": "Guatemala",
+        "Code": "GTM",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "14162319.14644885"
+    },
+    {
+        "Entity": "Guatemala",
+        "Code": "GTM",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "14374464.591589987"
+    },
+    {
+        "Entity": "Guinea",
+        "Code": "GIN",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "2389176.235661015"
+    },
+    {
+        "Entity": "Guinea",
+        "Code": "GIN",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "2425285.9952564687"
+    },
+    {
+        "Entity": "Guinea",
+        "Code": "GIN",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "2461395.7548519075"
+    },
+    {
+        "Entity": "Guinea",
+        "Code": "GIN",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "2497505.5144473463"
+    },
+    {
+        "Entity": "Guinea",
+        "Code": "GIN",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "2533615.274042785"
+    },
+    {
+        "Entity": "Guinea-Bissau",
+        "Code": "GNB",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "281278.34626865666"
+    },
+    {
+        "Entity": "Guinea-Bissau",
+        "Code": "GNB",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "285497.80151429493"
+    },
+    {
+        "Entity": "Guinea-Bissau",
+        "Code": "GNB",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "289717.25675993506"
+    },
+    {
+        "Entity": "Guinea-Bissau",
+        "Code": "GNB",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "293936.7120055733"
+    },
+    {
+        "Entity": "Guinea-Bissau",
+        "Code": "GNB",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "298156.1672512116"
+    },
+    {
+        "Entity": "Guyana",
+        "Code": "GUY",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "1985122.5084021091"
+    },
+    {
+        "Entity": "Guyana",
+        "Code": "GUY",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "2004443.7330702022"
+    },
+    {
+        "Entity": "Guyana",
+        "Code": "GUY",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "2023764.9577382952"
+    },
+    {
+        "Entity": "Guyana",
+        "Code": "GUY",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "2043086.1824063882"
+    },
+    {
+        "Entity": "Guyana",
+        "Code": "GUY",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "2062407.4070744738"
+    },
+    {
+        "Entity": "Haiti",
+        "Code": "HTI",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "2343924.864122033"
+    },
+    {
+        "Entity": "Haiti",
+        "Code": "HTI",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "2382434.6915944517"
+    },
+    {
+        "Entity": "Haiti",
+        "Code": "HTI",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "2420944.51906687"
+    },
+    {
+        "Entity": "Haiti",
+        "Code": "HTI",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "2459454.3465392888"
+    },
+    {
+        "Entity": "Haiti",
+        "Code": "HTI",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "2497964.174011722"
+    },
+    {
+        "Entity": "Honduras",
+        "Code": "HND",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "8335091.479771733"
+    },
+    {
+        "Entity": "Honduras",
+        "Code": "HND",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "8478809.784351647"
+    },
+    {
+        "Entity": "Honduras",
+        "Code": "HND",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "8622528.08893156"
+    },
+    {
+        "Entity": "Honduras",
+        "Code": "HND",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "8766246.393511474"
+    },
+    {
+        "Entity": "Honduras",
+        "Code": "HND",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "8909964.698091388"
+    },
+    {
+        "Entity": "Hong Kong",
+        "Code": "HKG",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "48065933.593615055"
+    },
+    {
+        "Entity": "Hong Kong",
+        "Code": "HKG",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "48799500.470659256"
+    },
+    {
+        "Entity": "Hong Kong",
+        "Code": "HKG",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "49533067.34770346"
+    },
+    {
+        "Entity": "Hong Kong",
+        "Code": "HKG",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "50266634.22474766"
+    },
+    {
+        "Entity": "Hong Kong",
+        "Code": "HKG",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "51000201.10179186"
+    },
+    {
+        "Entity": "Hungary",
+        "Code": "HUN",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "68196795.91249919"
+    },
+    {
+        "Entity": "Hungary",
+        "Code": "HUN",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "68644280.22195041"
+    },
+    {
+        "Entity": "Hungary",
+        "Code": "HUN",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "69091764.53140163"
+    },
+    {
+        "Entity": "Hungary",
+        "Code": "HUN",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "69539248.84085274"
+    },
+    {
+        "Entity": "Hungary",
+        "Code": "HUN",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "69986733.15030396"
+    },
+    {
+        "Entity": "Iceland",
+        "Code": "ISL",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "3662244.5063040406"
+    },
+    {
+        "Entity": "Iceland",
+        "Code": "ISL",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "3708906.2362402827"
+    },
+    {
+        "Entity": "Iceland",
+        "Code": "ISL",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "3755567.9661765248"
+    },
+    {
+        "Entity": "Iceland",
+        "Code": "ISL",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "3802229.696112767"
+    },
+    {
+        "Entity": "Iceland",
+        "Code": "ISL",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "3848891.426049009"
+    },
+    {
+        "Entity": "India",
+        "Code": "IND",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "652001991.6900244"
+    },
+    {
+        "Entity": "India",
+        "Code": "IND",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "655465489.4833097"
+    },
+    {
+        "Entity": "India",
+        "Code": "IND",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "658928987.2765951"
+    },
+    {
+        "Entity": "India",
+        "Code": "IND",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "662392485.0698805"
+    },
+    {
+        "Entity": "India",
+        "Code": "IND",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "665855982.8631659"
+    },
+    {
+        "Entity": "Indonesia",
+        "Code": "IDN",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "298127867.7238798"
+    },
+    {
+        "Entity": "Indonesia",
+        "Code": "IDN",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "301232008.918952"
+    },
+    {
+        "Entity": "Indonesia",
+        "Code": "IDN",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "304336150.11402416"
+    },
+    {
+        "Entity": "Indonesia",
+        "Code": "IDN",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "307440291.30909634"
+    },
+    {
+        "Entity": "Indonesia",
+        "Code": "IDN",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "310544432.50416946"
+    },
+    {
+        "Entity": "International transport",
+        "Code": null,
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "484228161.8670263"
+    },
+    {
+        "Entity": "International transport",
+        "Code": null,
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "486813298.1162605"
+    },
+    {
+        "Entity": "International transport",
+        "Code": null,
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "489398434.3654947"
+    },
+    {
+        "Entity": "International transport",
+        "Code": null,
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "491983570.6147289"
+    },
+    {
+        "Entity": "International transport",
+        "Code": null,
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "494568706.8639631"
+    },
+    {
+        "Entity": "Iran",
+        "Code": "IRN",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "420848141.3189678"
+    },
+    {
+        "Entity": "Iran",
+        "Code": "IRN",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "425616104.7534981"
+    },
+    {
+        "Entity": "Iran",
+        "Code": "IRN",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "430384068.1880264"
+    },
+    {
+        "Entity": "Iran",
+        "Code": "IRN",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "435152031.6225567"
+    },
+    {
+        "Entity": "Iran",
+        "Code": "IRN",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "439919995.05708694"
+    },
+    {
+        "Entity": "Iraq",
+        "Code": "IRQ",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "114789472.59051514"
+    },
+    {
+        "Entity": "Iraq",
+        "Code": "IRQ",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "116313800.9973793"
+    },
+    {
+        "Entity": "Iraq",
+        "Code": "IRQ",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "117838129.40424299"
+    },
+    {
+        "Entity": "Iraq",
+        "Code": "IRQ",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "119362457.81110716"
+    },
+    {
+        "Entity": "Iraq",
+        "Code": "IRQ",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "120886786.21797132"
+    },
+    {
+        "Entity": "Ireland",
+        "Code": "IRL",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "41931228.578048706"
+    },
+    {
+        "Entity": "Ireland",
+        "Code": "IRL",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "42331899.36186504"
+    },
+    {
+        "Entity": "Ireland",
+        "Code": "IRL",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "42732570.14568126"
+    },
+    {
+        "Entity": "Ireland",
+        "Code": "IRL",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "43133240.92949748"
+    },
+    {
+        "Entity": "Ireland",
+        "Code": "IRL",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "43533911.7133137"
+    },
+    {
+        "Entity": "Israel",
+        "Code": "ISR",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "66152945.62092471"
+    },
+    {
+        "Entity": "Israel",
+        "Code": "ISR",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "67072307.144257545"
+    },
+    {
+        "Entity": "Israel",
+        "Code": "ISR",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "67991668.66759038"
+    },
+    {
+        "Entity": "Israel",
+        "Code": "ISR",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "68911030.19092321"
+    },
+    {
+        "Entity": "Israel",
+        "Code": "ISR",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "69830391.71425605"
+    },
+    {
+        "Entity": "Italy",
+        "Code": "ITA",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "420482675.1861973"
+    },
+    {
+        "Entity": "Italy",
+        "Code": "ITA",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "423889272.01092243"
+    },
+    {
+        "Entity": "Italy",
+        "Code": "ITA",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "427295868.83564854"
+    },
+    {
+        "Entity": "Italy",
+        "Code": "ITA",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "430702465.6603737"
+    },
+    {
+        "Entity": "Italy",
+        "Code": "ITA",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "434109062.4850998"
+    },
+    {
+        "Entity": "Jamaica",
+        "Code": "JAM",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "10885557.97910449"
+    },
+    {
+        "Entity": "Jamaica",
+        "Code": "JAM",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "11020178.562403291"
+    },
+    {
+        "Entity": "Jamaica",
+        "Code": "JAM",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "11154799.145702153"
+    },
+    {
+        "Entity": "Jamaica",
+        "Code": "JAM",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "11289419.729001015"
+    },
+    {
+        "Entity": "Jamaica",
+        "Code": "JAM",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "11424040.312299877"
+    },
+    {
+        "Entity": "Japan",
+        "Code": "JPN",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "1179789169.164177"
+    },
+    {
+        "Entity": "Japan",
+        "Code": "JPN",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "1189914005.1180687"
+    },
+    {
+        "Entity": "Japan",
+        "Code": "JPN",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "1200038841.0719604"
+    },
+    {
+        "Entity": "Japan",
+        "Code": "JPN",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "1210163677.0258522"
+    },
+    {
+        "Entity": "Japan",
+        "Code": "JPN",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "1220288512.979744"
+    },
+    {
+        "Entity": "Jordan",
+        "Code": "JOR",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "22808378.023893714"
+    },
+    {
+        "Entity": "Jordan",
+        "Code": "JOR",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "23207414.84166217"
+    },
+    {
+        "Entity": "Jordan",
+        "Code": "JOR",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "23606451.659430623"
+    },
+    {
+        "Entity": "Jordan",
+        "Code": "JOR",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "24005488.477199078"
+    },
+    {
+        "Entity": "Jordan",
+        "Code": "JOR",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "24404525.294967532"
+    },
+    {
+        "Entity": "Kazakhstan",
+        "Code": "KAZ",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "238865214.70806527"
+    },
+    {
+        "Entity": "Kazakhstan",
+        "Code": "KAZ",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "239877887.46104598"
+    },
+    {
+        "Entity": "Kazakhstan",
+        "Code": "KAZ",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "240890560.2140267"
+    },
+    {
+        "Entity": "Kazakhstan",
+        "Code": "KAZ",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "241903232.96700764"
+    },
+    {
+        "Entity": "Kazakhstan",
+        "Code": "KAZ",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "242915905.71998835"
+    },
+    {
+        "Entity": "Kenya",
+        "Code": "KEN",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "12218156.13817823"
+    },
+    {
+        "Entity": "Kenya",
+        "Code": "KEN",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "12397491.770371795"
+    },
+    {
+        "Entity": "Kenya",
+        "Code": "KEN",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "12576827.40256536"
+    },
+    {
+        "Entity": "Kenya",
+        "Code": "KEN",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "12756163.034758925"
+    },
+    {
+        "Entity": "Kenya",
+        "Code": "KEN",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "12935498.66695249"
+    },
+    {
+        "Entity": "Kiribati",
+        "Code": "KIR",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "58308.85307017551"
+    },
+    {
+        "Entity": "Kiribati",
+        "Code": "KIR",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "59161.67220810661"
+    },
+    {
+        "Entity": "Kiribati",
+        "Code": "KIR",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "60014.49134603748"
+    },
+    {
+        "Entity": "Kiribati",
+        "Code": "KIR",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "60867.310483968584"
+    },
+    {
+        "Entity": "Kiribati",
+        "Code": "KIR",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "61720.12962189969"
+    },
+    {
+        "Entity": "Kuwait",
+        "Code": "KWT",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "85763987.36375952"
+    },
+    {
+        "Entity": "Kuwait",
+        "Code": "KWT",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "87113928.47913313"
+    },
+    {
+        "Entity": "Kuwait",
+        "Code": "KWT",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "88463869.59450626"
+    },
+    {
+        "Entity": "Kuwait",
+        "Code": "KWT",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "89813810.7098794"
+    },
+    {
+        "Entity": "Kuwait",
+        "Code": "KWT",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "91163751.82525253"
+    },
+    {
+        "Entity": "Kyrgysztan",
+        "Code": null,
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "0.0"
+    },
+    {
+        "Entity": "Kyrgysztan",
+        "Code": null,
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "0.0"
+    },
+    {
+        "Entity": "Kyrgysztan",
+        "Code": null,
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "0.0"
+    },
+    {
+        "Entity": "Kyrgysztan",
+        "Code": null,
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "0.0"
+    },
+    {
+        "Entity": "Kyrgysztan",
+        "Code": null,
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "0.0"
+    },
+    {
+        "Entity": "Kyrgyzstan",
+        "Code": "KGZ",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "8878025.357692301"
+    },
+    {
+        "Entity": "Kyrgyzstan",
+        "Code": "KGZ",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "9017895.668461502"
+    },
+    {
+        "Entity": "Kyrgyzstan",
+        "Code": "KGZ",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "9157765.979230762"
+    },
+    {
+        "Entity": "Kyrgyzstan",
+        "Code": "KGZ",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "9297636.289999962"
+    },
+    {
+        "Entity": "Kyrgyzstan",
+        "Code": "KGZ",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "9437506.600769222"
+    },
+    {
+        "Entity": "Laos",
+        "Code": "LAO",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "1375053.3030824363"
+    },
+    {
+        "Entity": "Laos",
+        "Code": "LAO",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "1400128.0169783682"
+    },
+    {
+        "Entity": "Laos",
+        "Code": "LAO",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "1425202.7308742926"
+    },
+    {
+        "Entity": "Laos",
+        "Code": "LAO",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "1450277.4447702244"
+    },
+    {
+        "Entity": "Laos",
+        "Code": "LAO",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "1475352.1586661562"
+    },
+    {
+        "Entity": "Latvia",
+        "Code": "LVA",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "12975059.748613358"
+    },
+    {
+        "Entity": "Latvia",
+        "Code": "LVA",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "13083801.348710895"
+    },
+    {
+        "Entity": "Latvia",
+        "Code": "LVA",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "13192542.948808432"
+    },
+    {
+        "Entity": "Latvia",
+        "Code": "LVA",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "13301284.548905969"
+    },
+    {
+        "Entity": "Latvia",
+        "Code": "LVA",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "13410026.149003506"
+    },
+    {
+        "Entity": "Lebanon",
+        "Code": "LBN",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "18971691.94817376"
+    },
+    {
+        "Entity": "Lebanon",
+        "Code": "LBN",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "19237961.454339027"
+    },
+    {
+        "Entity": "Lebanon",
+        "Code": "LBN",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "19504230.960504413"
+    },
+    {
+        "Entity": "Lebanon",
+        "Code": "LBN",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "19770500.46666968"
+    },
+    {
+        "Entity": "Lebanon",
+        "Code": "LBN",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "20036769.972834945"
+    },
+    {
+        "Entity": "Lesotho",
+        "Code": "LSO",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "2609101.4827777892"
+    },
+    {
+        "Entity": "Lesotho",
+        "Code": "LSO",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "2650062.3675260097"
+    },
+    {
+        "Entity": "Lesotho",
+        "Code": "LSO",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "2691023.25227423"
+    },
+    {
+        "Entity": "Lesotho",
+        "Code": "LSO",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "2731984.1370224506"
+    },
+    {
+        "Entity": "Lesotho",
+        "Code": "LSO",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "2772945.021770671"
+    },
+    {
+        "Entity": "Liberia",
+        "Code": "LBR",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "875614.7321246713"
+    },
+    {
+        "Entity": "Liberia",
+        "Code": "LBR",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "880574.9441726152"
+    },
+    {
+        "Entity": "Liberia",
+        "Code": "LBR",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "885535.156220559"
+    },
+    {
+        "Entity": "Liberia",
+        "Code": "LBR",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "890495.3682685047"
+    },
+    {
+        "Entity": "Liberia",
+        "Code": "LBR",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "895455.5803164486"
+    },
+    {
+        "Entity": "Libya",
+        "Code": "LBY",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "61973747.64484191"
+    },
+    {
+        "Entity": "Libya",
+        "Code": "LBY",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "62938052.47080922"
+    },
+    {
+        "Entity": "Libya",
+        "Code": "LBY",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "63902357.29677653"
+    },
+    {
+        "Entity": "Libya",
+        "Code": "LBY",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "64866662.122743845"
+    },
+    {
+        "Entity": "Libya",
+        "Code": "LBY",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "65830966.94871116"
+    },
+    {
+        "Entity": "Liechtenstein",
+        "Code": "LIE",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "145596.51927272603"
+    },
+    {
+        "Entity": "Liechtenstein",
+        "Code": "LIE",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "139549.49309090897"
+    },
+    {
+        "Entity": "Liechtenstein",
+        "Code": "LIE",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "133502.46690909006"
+    },
+    {
+        "Entity": "Liechtenstein",
+        "Code": "LIE",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "127455.44072727114"
+    },
+    {
+        "Entity": "Liechtenstein",
+        "Code": "LIE",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "121408.41454545408"
+    },
+    {
+        "Entity": "Lithuania",
+        "Code": "LTU",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "16712728.996604316"
+    },
+    {
+        "Entity": "Lithuania",
+        "Code": "LTU",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "16696085.509310342"
+    },
+    {
+        "Entity": "Lithuania",
+        "Code": "LTU",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "16679442.022016361"
+    },
+    {
+        "Entity": "Lithuania",
+        "Code": "LTU",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "16662798.53472238"
+    },
+    {
+        "Entity": "Lithuania",
+        "Code": "LTU",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "16646155.0474284"
+    },
+    {
+        "Entity": "Luxembourg",
+        "Code": "LUX",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "11636890.223150685"
+    },
+    {
+        "Entity": "Luxembourg",
+        "Code": "LUX",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "11682922.57403925"
+    },
+    {
+        "Entity": "Luxembourg",
+        "Code": "LUX",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "11728954.9249278"
+    },
+    {
+        "Entity": "Luxembourg",
+        "Code": "LUX",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "11774987.275816366"
+    },
+    {
+        "Entity": "Luxembourg",
+        "Code": "LUX",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "11821019.626704916"
+    },
+    {
+        "Entity": "Macao",
+        "Code": "MAC",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "1826021.712961316"
+    },
+    {
+        "Entity": "Macao",
+        "Code": "MAC",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "1857232.0380524322"
+    },
+    {
+        "Entity": "Macao",
+        "Code": "MAC",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "1888442.3631435484"
+    },
+    {
+        "Entity": "Macao",
+        "Code": "MAC",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "1919652.6882346645"
+    },
+    {
+        "Entity": "Macao",
+        "Code": "MAC",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "1950863.0133257806"
+    },
+    {
+        "Entity": "Macedonia",
+        "Code": "MKD",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "11641917.149421379"
+    },
+    {
+        "Entity": "Macedonia",
+        "Code": "MKD",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "11712544.275181755"
+    },
+    {
+        "Entity": "Macedonia",
+        "Code": "MKD",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "11783171.400942132"
+    },
+    {
+        "Entity": "Macedonia",
+        "Code": "MKD",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "11853798.526702508"
+    },
+    {
+        "Entity": "Macedonia",
+        "Code": "MKD",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "11924425.652462885"
+    },
+    {
+        "Entity": "Madagascar",
+        "Code": "MDG",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "2371458.7562543675"
+    },
+    {
+        "Entity": "Madagascar",
+        "Code": "MDG",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "2404162.958409548"
+    },
+    {
+        "Entity": "Madagascar",
+        "Code": "MDG",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "2436867.1605647355"
+    },
+    {
+        "Entity": "Madagascar",
+        "Code": "MDG",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "2469571.362719916"
+    },
+    {
+        "Entity": "Madagascar",
+        "Code": "MDG",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "2502275.564875096"
+    },
+    {
+        "Entity": "Malawi",
+        "Code": "MWI",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "1181140.203378141"
+    },
+    {
+        "Entity": "Malawi",
+        "Code": "MWI",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "1196188.6546376385"
+    },
+    {
+        "Entity": "Malawi",
+        "Code": "MWI",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "1211237.105897136"
+    },
+    {
+        "Entity": "Malawi",
+        "Code": "MWI",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "1226285.5571566336"
+    },
+    {
+        "Entity": "Malawi",
+        "Code": "MWI",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "1241334.0084161311"
+    },
+    {
+        "Entity": "Malaysia",
+        "Code": "MYS",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "135765299.68421698"
+    },
+    {
+        "Entity": "Malaysia",
+        "Code": "MYS",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "137206933.00622034"
+    },
+    {
+        "Entity": "Malaysia",
+        "Code": "MYS",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "138648566.32822418"
+    },
+    {
+        "Entity": "Malaysia",
+        "Code": "MYS",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "140090199.65022755"
+    },
+    {
+        "Entity": "Malaysia",
+        "Code": "MYS",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "141531832.9722314"
+    },
+    {
+        "Entity": "Maldives",
+        "Code": "MDV",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "1162160.254209064"
+    },
+    {
+        "Entity": "Maldives",
+        "Code": "MDV",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "1192997.7324340865"
+    },
+    {
+        "Entity": "Maldives",
+        "Code": "MDV",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "1223835.210659109"
+    },
+    {
+        "Entity": "Maldives",
+        "Code": "MDV",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "1254672.6888841316"
+    },
+    {
+        "Entity": "Maldives",
+        "Code": "MDV",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "1285510.1671091542"
+    },
+    {
+        "Entity": "Mali",
+        "Code": "MLI",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "1182021.7116306275"
+    },
+    {
+        "Entity": "Mali",
+        "Code": "MLI",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "1202693.9413459972"
+    },
+    {
+        "Entity": "Mali",
+        "Code": "MLI",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "1223366.1710613668"
+    },
+    {
+        "Entity": "Mali",
+        "Code": "MLI",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "1244038.400776744"
+    },
+    {
+        "Entity": "Mali",
+        "Code": "MLI",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "1264710.6304921135"
+    },
+    {
+        "Entity": "Malta",
+        "Code": "MLT",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "2917970.5754301846"
+    },
+    {
+        "Entity": "Malta",
+        "Code": "MLT",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "2961005.837394923"
+    },
+    {
+        "Entity": "Malta",
+        "Code": "MLT",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "3004041.0993596464"
+    },
+    {
+        "Entity": "Malta",
+        "Code": "MLT",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "3047076.36132437"
+    },
+    {
+        "Entity": "Malta",
+        "Code": "MLT",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "3090111.6232891083"
+    },
+    {
+        "Entity": "Marshall Islands",
+        "Code": "MHL",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "119175.64541538432"
+    },
+    {
+        "Entity": "Marshall Islands",
+        "Code": "MHL",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "121547.5164717948"
+    },
+    {
+        "Entity": "Marshall Islands",
+        "Code": "MHL",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "123919.38752820529"
+    },
+    {
+        "Entity": "Marshall Islands",
+        "Code": "MHL",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "126291.25858461577"
+    },
+    {
+        "Entity": "Marshall Islands",
+        "Code": "MHL",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "128663.12964102533"
+    },
+    {
+        "Entity": "Martinique",
+        "Code": "MTQ",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "2474076.285314679"
+    },
+    {
+        "Entity": "Martinique",
+        "Code": "MTQ",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "2512812.1958041936"
+    },
+    {
+        "Entity": "Martinique",
+        "Code": "MTQ",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "2551548.106293693"
+    },
+    {
+        "Entity": "Martinique",
+        "Code": "MTQ",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "2590284.0167832077"
+    },
+    {
+        "Entity": "Martinique",
+        "Code": "MTQ",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "2629019.927272722"
+    },
+    {
+        "Entity": "Mauritania",
+        "Code": "MRT",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "2255214.4187141955"
+    },
+    {
+        "Entity": "Mauritania",
+        "Code": "MRT",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "2294414.702004671"
+    },
+    {
+        "Entity": "Mauritania",
+        "Code": "MRT",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "2333614.9852951467"
+    },
+    {
+        "Entity": "Mauritania",
+        "Code": "MRT",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "2372815.2685856223"
+    },
+    {
+        "Entity": "Mauritania",
+        "Code": "MRT",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "2412015.551876098"
+    },
+    {
+        "Entity": "Mauritius",
+        "Code": "MUS",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "3784332.6621290594"
+    },
+    {
+        "Entity": "Mauritius",
+        "Code": "MUS",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "3850400.3877747506"
+    },
+    {
+        "Entity": "Mauritius",
+        "Code": "MUS",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "3916468.113420427"
+    },
+    {
+        "Entity": "Mauritius",
+        "Code": "MUS",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "3982535.839066118"
+    },
+    {
+        "Entity": "Mauritius",
+        "Code": "MUS",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "4048603.5647117943"
+    },
+    {
+        "Entity": "Mexico",
+        "Code": "MEX",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "414642810.81842613"
+    },
+    {
+        "Entity": "Mexico",
+        "Code": "MEX",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "418787516.52329826"
+    },
+    {
+        "Entity": "Mexico",
+        "Code": "MEX",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "422932222.22816944"
+    },
+    {
+        "Entity": "Mexico",
+        "Code": "MEX",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "427076927.9330416"
+    },
+    {
+        "Entity": "Mexico",
+        "Code": "MEX",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "431221633.6379137"
+    },
+    {
+        "Entity": "Micronesia (country)",
+        "Code": "FSM",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "161167.01375384722"
+    },
+    {
+        "Entity": "Micronesia (country)",
+        "Code": "FSM",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "163414.84041367564"
+    },
+    {
+        "Entity": "Micronesia (country)",
+        "Code": "FSM",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "165662.667073505"
+    },
+    {
+        "Entity": "Micronesia (country)",
+        "Code": "FSM",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "167910.49373333436"
+    },
+    {
+        "Entity": "Micronesia (country)",
+        "Code": "FSM",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "170158.32039316278"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": null,
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "812106062.3444138"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": null,
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "816476320.2622681"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": null,
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "820846578.1801224"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": null,
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "825216836.0979767"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": null,
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "829587094.015831"
+    },
+    {
+        "Entity": "Moldova",
+        "Code": "MDA",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "7109296.37959671"
+    },
+    {
+        "Entity": "Moldova",
+        "Code": "MDA",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "7247112.124990046"
+    },
+    {
+        "Entity": "Moldova",
+        "Code": "MDA",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "7384927.870383382"
+    },
+    {
+        "Entity": "Moldova",
+        "Code": "MDA",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "7522743.615776718"
+    },
+    {
+        "Entity": "Moldova",
+        "Code": "MDA",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "7660559.3611700535"
+    },
+    {
+        "Entity": "Mongolia",
+        "Code": "MNG",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "18855589.98463571"
+    },
+    {
+        "Entity": "Mongolia",
+        "Code": "MNG",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "19173298.042851925"
+    },
+    {
+        "Entity": "Mongolia",
+        "Code": "MNG",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "19491006.10106802"
+    },
+    {
+        "Entity": "Mongolia",
+        "Code": "MNG",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "19808714.159284234"
+    },
+    {
+        "Entity": "Mongolia",
+        "Code": "MNG",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "20126422.21750045"
+    },
+    {
+        "Entity": "Montenegro",
+        "Code": "MNE",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "2679625.881998837"
+    },
+    {
+        "Entity": "Montenegro",
+        "Code": "MNE",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "2707013.1519468203"
+    },
+    {
+        "Entity": "Montenegro",
+        "Code": "MNE",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "2734400.4218948036"
+    },
+    {
+        "Entity": "Montenegro",
+        "Code": "MNE",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "2761787.691842787"
+    },
+    {
+        "Entity": "Montenegro",
+        "Code": "MNE",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "2789174.9617907703"
+    },
+    {
+        "Entity": "Montserrat",
+        "Code": "MSR",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "51375.251448052004"
+    },
+    {
+        "Entity": "Montserrat",
+        "Code": "MSR",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "52213.13362918678"
+    },
+    {
+        "Entity": "Montserrat",
+        "Code": "MSR",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "53051.01581032132"
+    },
+    {
+        "Entity": "Montserrat",
+        "Code": "MSR",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "53888.89799145609"
+    },
+    {
+        "Entity": "Montserrat",
+        "Code": "MSR",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "54726.78017259063"
+    },
+    {
+        "Entity": "Morocco",
+        "Code": "MAR",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "48945880.54084897"
+    },
+    {
+        "Entity": "Morocco",
+        "Code": "MAR",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "49633525.0347991"
+    },
+    {
+        "Entity": "Morocco",
+        "Code": "MAR",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "50321169.528749466"
+    },
+    {
+        "Entity": "Morocco",
+        "Code": "MAR",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "51008814.02269983"
+    },
+    {
+        "Entity": "Morocco",
+        "Code": "MAR",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "51696458.51664996"
+    },
+    {
+        "Entity": "Mozambique",
+        "Code": "MOZ",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "3858692.7254505605"
+    },
+    {
+        "Entity": "Mozambique",
+        "Code": "MOZ",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "3903612.921445772"
+    },
+    {
+        "Entity": "Mozambique",
+        "Code": "MOZ",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "3948533.1174409986"
+    },
+    {
+        "Entity": "Mozambique",
+        "Code": "MOZ",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "3993453.313436225"
+    },
+    {
+        "Entity": "Mozambique",
+        "Code": "MOZ",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "4038373.5094314516"
+    },
+    {
+        "Entity": "Myanmar",
+        "Code": "MMR",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "12741549.735450745"
+    },
+    {
+        "Entity": "Myanmar",
+        "Code": "MMR",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "12897153.599873364"
+    },
+    {
+        "Entity": "Myanmar",
+        "Code": "MMR",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "13052757.464295924"
+    },
+    {
+        "Entity": "Myanmar",
+        "Code": "MMR",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "13208361.328718543"
+    },
+    {
+        "Entity": "Myanmar",
+        "Code": "MMR",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "13363965.193141162"
+    },
+    {
+        "Entity": "Namibia",
+        "Code": "NAM",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "3868467.9321367443"
+    },
+    {
+        "Entity": "Namibia",
+        "Code": "NAM",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "3975630.1261782646"
+    },
+    {
+        "Entity": "Namibia",
+        "Code": "NAM",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "4082792.320219785"
+    },
+    {
+        "Entity": "Namibia",
+        "Code": "NAM",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "4189954.5142613053"
+    },
+    {
+        "Entity": "Namibia",
+        "Code": "NAM",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "4297116.708302796"
+    },
+    {
+        "Entity": "Nauru",
+        "Code": "NRU",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "69983.80689727468"
+    },
+    {
+        "Entity": "Nauru",
+        "Code": "NRU",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "69378.23276424618"
+    },
+    {
+        "Entity": "Nauru",
+        "Code": "NRU",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "68772.6586312179"
+    },
+    {
+        "Entity": "Nauru",
+        "Code": "NRU",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "68167.08449818939"
+    },
+    {
+        "Entity": "Nauru",
+        "Code": "NRU",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "67561.51036516088"
+    },
+    {
+        "Entity": "Nepal",
+        "Code": "NPL",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "4958047.862879723"
+    },
+    {
+        "Entity": "Nepal",
+        "Code": "NPL",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "5052441.576104701"
+    },
+    {
+        "Entity": "Nepal",
+        "Code": "NPL",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "5146835.289329678"
+    },
+    {
+        "Entity": "Nepal",
+        "Code": "NPL",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "5241229.002554685"
+    },
+    {
+        "Entity": "Nepal",
+        "Code": "NPL",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "5335622.715779662"
+    },
+    {
+        "Entity": "Netherlands",
+        "Code": "NLD",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "171377842.93093777"
+    },
+    {
+        "Entity": "Netherlands",
+        "Code": "NLD",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "172599011.06034994"
+    },
+    {
+        "Entity": "Netherlands",
+        "Code": "NLD",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "173820179.18976212"
+    },
+    {
+        "Entity": "Netherlands",
+        "Code": "NLD",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "175041347.3191738"
+    },
+    {
+        "Entity": "Netherlands",
+        "Code": "NLD",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "176262515.448586"
+    },
+    {
+        "Entity": "New Caledonia",
+        "Code": "NCL",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "3590732.9845566303"
+    },
+    {
+        "Entity": "New Caledonia",
+        "Code": "NCL",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "3637903.5092922896"
+    },
+    {
+        "Entity": "New Caledonia",
+        "Code": "NCL",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "3685074.034027949"
+    },
+    {
+        "Entity": "New Caledonia",
+        "Code": "NCL",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "3732244.5587636083"
+    },
+    {
+        "Entity": "New Caledonia",
+        "Code": "NCL",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "3779415.0834992677"
+    },
+    {
+        "Entity": "New Zealand",
+        "Code": "NZL",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "31767899.03570193"
+    },
+    {
+        "Entity": "New Zealand",
+        "Code": "NZL",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "32038247.941607535"
+    },
+    {
+        "Entity": "New Zealand",
+        "Code": "NZL",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "32308596.84751314"
+    },
+    {
+        "Entity": "New Zealand",
+        "Code": "NZL",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "32578945.753418744"
+    },
+    {
+        "Entity": "New Zealand",
+        "Code": "NZL",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "32849294.659324348"
+    },
+    {
+        "Entity": "Nicaragua",
+        "Code": "NIC",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "4863050.037505269"
+    },
+    {
+        "Entity": "Nicaragua",
+        "Code": "NIC",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "4934434.4278745055"
+    },
+    {
+        "Entity": "Nicaragua",
+        "Code": "NIC",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "5005818.818243742"
+    },
+    {
+        "Entity": "Nicaragua",
+        "Code": "NIC",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "5077203.208613008"
+    },
+    {
+        "Entity": "Nicaragua",
+        "Code": "NIC",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "5148587.598982245"
+    },
+    {
+        "Entity": "Niger",
+        "Code": "NER",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "1590282.7321355864"
+    },
+    {
+        "Entity": "Niger",
+        "Code": "NER",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "1618321.5031728223"
+    },
+    {
+        "Entity": "Niger",
+        "Code": "NER",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "1646360.2742100507"
+    },
+    {
+        "Entity": "Niger",
+        "Code": "NER",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "1674399.0452472866"
+    },
+    {
+        "Entity": "Niger",
+        "Code": "NER",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "1702437.816284515"
+    },
+    {
+        "Entity": "Nigeria",
+        "Code": "NGA",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "89555629.57790995"
+    },
+    {
+        "Entity": "Nigeria",
+        "Code": "NGA",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "90648141.65221643"
+    },
+    {
+        "Entity": "Nigeria",
+        "Code": "NGA",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "91740653.72652245"
+    },
+    {
+        "Entity": "Nigeria",
+        "Code": "NGA",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "92833165.80082893"
+    },
+    {
+        "Entity": "Nigeria",
+        "Code": "NGA",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "93925677.87513542"
+    },
+    {
+        "Entity": "Niue",
+        "Code": "NIU",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "8620.071391843987"
+    },
+    {
+        "Entity": "Niue",
+        "Code": "NIU",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "8740.976873824024"
+    },
+    {
+        "Entity": "Niue",
+        "Code": "NIU",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "8861.882355804031"
+    },
+    {
+        "Entity": "Niue",
+        "Code": "NIU",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "8982.787837784068"
+    },
+    {
+        "Entity": "Niue",
+        "Code": "NIU",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "9103.693319764105"
+    },
+    {
+        "Entity": "North Korea",
+        "Code": "PRK",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "104205378.92394996"
+    },
+    {
+        "Entity": "North Korea",
+        "Code": "PRK",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "105183142.85957694"
+    },
+    {
+        "Entity": "North Korea",
+        "Code": "PRK",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "106160906.79520369"
+    },
+    {
+        "Entity": "North Korea",
+        "Code": "PRK",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "107138670.73083067"
+    },
+    {
+        "Entity": "North Korea",
+        "Code": "PRK",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "108116434.66645765"
+    },
+    {
+        "Entity": "Norway",
+        "Code": "NOR",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "38753971.34784055"
+    },
+    {
+        "Entity": "Norway",
+        "Code": "NOR",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "39019662.280602574"
+    },
+    {
+        "Entity": "Norway",
+        "Code": "NOR",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "39285353.21336454"
+    },
+    {
+        "Entity": "Norway",
+        "Code": "NOR",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "39551044.14612651"
+    },
+    {
+        "Entity": "Norway",
+        "Code": "NOR",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "39816735.07888842"
+    },
+    {
+        "Entity": "Oman",
+        "Code": "OMN",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "51711237.4388051"
+    },
+    {
+        "Entity": "Oman",
+        "Code": "OMN",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "52870101.6888423"
+    },
+    {
+        "Entity": "Oman",
+        "Code": "OMN",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "54028965.93887997"
+    },
+    {
+        "Entity": "Oman",
+        "Code": "OMN",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "55187830.18891716"
+    },
+    {
+        "Entity": "Oman",
+        "Code": "OMN",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "56346694.43895435"
+    },
+    {
+        "Entity": "Pakistan",
+        "Code": "PAK",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "169601353.0419693"
+    },
+    {
+        "Entity": "Pakistan",
+        "Code": "PAK",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "172791121.40485477"
+    },
+    {
+        "Entity": "Pakistan",
+        "Code": "PAK",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "175980889.7677393"
+    },
+    {
+        "Entity": "Pakistan",
+        "Code": "PAK",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "179170658.13062382"
+    },
+    {
+        "Entity": "Pakistan",
+        "Code": "PAK",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "182360426.4935093"
+    },
+    {
+        "Entity": "Palau",
+        "Code": "PLW",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "314766.59979518503"
+    },
+    {
+        "Entity": "Palau",
+        "Code": "PLW",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "319140.6329485085"
+    },
+    {
+        "Entity": "Palau",
+        "Code": "PLW",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "323514.6661018301"
+    },
+    {
+        "Entity": "Palau",
+        "Code": "PLW",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "327888.6992551517"
+    },
+    {
+        "Entity": "Palau",
+        "Code": "PLW",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "332262.73240847327"
+    },
+    {
+        "Entity": "Palestine",
+        "Code": "PSE",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "2772340.928888887"
+    },
+    {
+        "Entity": "Palestine",
+        "Code": "PSE",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "2844560.6481965184"
+    },
+    {
+        "Entity": "Palestine",
+        "Code": "PSE",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "2916780.36750412"
+    },
+    {
+        "Entity": "Palestine",
+        "Code": "PSE",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "2989000.0868117213"
+    },
+    {
+        "Entity": "Palestine",
+        "Code": "PSE",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "3061219.806119323"
+    },
+    {
+        "Entity": "Panama",
+        "Code": "PAN",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "8587420.505068332"
+    },
+    {
+        "Entity": "Panama",
+        "Code": "PAN",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "8720654.450277478"
+    },
+    {
+        "Entity": "Panama",
+        "Code": "PAN",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "8853888.395486623"
+    },
+    {
+        "Entity": "Panama",
+        "Code": "PAN",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "8987122.340695828"
+    },
+    {
+        "Entity": "Panama",
+        "Code": "PAN",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "9120356.285904974"
+    },
+    {
+        "Entity": "Papua New Guinea",
+        "Code": "PNG",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "5489920.160197556"
+    },
+    {
+        "Entity": "Papua New Guinea",
+        "Code": "PNG",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "5584051.625868231"
+    },
+    {
+        "Entity": "Papua New Guinea",
+        "Code": "PNG",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "5678183.091538906"
+    },
+    {
+        "Entity": "Papua New Guinea",
+        "Code": "PNG",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "5772314.557209611"
+    },
+    {
+        "Entity": "Papua New Guinea",
+        "Code": "PNG",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "5866446.022880286"
+    },
+    {
+        "Entity": "Paraguay",
+        "Code": "PRY",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "5332692.767050058"
+    },
+    {
+        "Entity": "Paraguay",
+        "Code": "PRY",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "5423283.023013145"
+    },
+    {
+        "Entity": "Paraguay",
+        "Code": "PRY",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "5513873.278976232"
+    },
+    {
+        "Entity": "Paraguay",
+        "Code": "PRY",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "5604463.534939319"
+    },
+    {
+        "Entity": "Paraguay",
+        "Code": "PRY",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "5695053.790902406"
+    },
+    {
+        "Entity": "Peru",
+        "Code": "PER",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "37647602.37079227"
+    },
+    {
+        "Entity": "Peru",
+        "Code": "PER",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "38000004.71393943"
+    },
+    {
+        "Entity": "Peru",
+        "Code": "PER",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "38352407.05708659"
+    },
+    {
+        "Entity": "Peru",
+        "Code": "PER",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "38704809.400233746"
+    },
+    {
+        "Entity": "Peru",
+        "Code": "PER",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "39057211.743380904"
+    },
+    {
+        "Entity": "Philippines",
+        "Code": "PHL",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "77393910.05294156"
+    },
+    {
+        "Entity": "Philippines",
+        "Code": "PHL",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "78295058.8750577"
+    },
+    {
+        "Entity": "Philippines",
+        "Code": "PHL",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "79196207.69717383"
+    },
+    {
+        "Entity": "Philippines",
+        "Code": "PHL",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "80097356.51928997"
+    },
+    {
+        "Entity": "Philippines",
+        "Code": "PHL",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "80998505.3414061"
+    },
+    {
+        "Entity": "Poland",
+        "Code": "POL",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "340254399.10293007"
+    },
+    {
+        "Entity": "Poland",
+        "Code": "POL",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "342236999.01926947"
+    },
+    {
+        "Entity": "Poland",
+        "Code": "POL",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "344219598.93560886"
+    },
+    {
+        "Entity": "Poland",
+        "Code": "POL",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "346202198.85194826"
+    },
+    {
+        "Entity": "Poland",
+        "Code": "POL",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "348184798.76828766"
+    },
+    {
+        "Entity": "Portugal",
+        "Code": "PRT",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "47788960.33823502"
+    },
+    {
+        "Entity": "Portugal",
+        "Code": "PRT",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "48205799.75003338"
+    },
+    {
+        "Entity": "Portugal",
+        "Code": "PRT",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "48622639.16183174"
+    },
+    {
+        "Entity": "Portugal",
+        "Code": "PRT",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "49039478.573630095"
+    },
+    {
+        "Entity": "Portugal",
+        "Code": "PRT",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "49456317.98542845"
+    },
+    {
+        "Entity": "Qatar",
+        "Code": "QAT",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "75848469.15885735"
+    },
+    {
+        "Entity": "Qatar",
+        "Code": "QAT",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "77237698.87966108"
+    },
+    {
+        "Entity": "Qatar",
+        "Code": "QAT",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "78626928.60046482"
+    },
+    {
+        "Entity": "Qatar",
+        "Code": "QAT",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "80016158.32126904"
+    },
+    {
+        "Entity": "Qatar",
+        "Code": "QAT",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "81405388.04207277"
+    },
+    {
+        "Entity": "Reunion",
+        "Code": "REU",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "3912624.179020971"
+    },
+    {
+        "Entity": "Reunion",
+        "Code": "REU",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "3982707.787412584"
+    },
+    {
+        "Entity": "Reunion",
+        "Code": "REU",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "4052791.3958041966"
+    },
+    {
+        "Entity": "Reunion",
+        "Code": "REU",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "4122875.0041958094"
+    },
+    {
+        "Entity": "Reunion",
+        "Code": "REU",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "4192958.612587422"
+    },
+    {
+        "Entity": "Romania",
+        "Code": "ROU",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "138165348.69509912"
+    },
+    {
+        "Entity": "Romania",
+        "Code": "ROU",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "139235431.95455527"
+    },
+    {
+        "Entity": "Romania",
+        "Code": "ROU",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "140305515.2140119"
+    },
+    {
+        "Entity": "Romania",
+        "Code": "ROU",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "141375598.47346807"
+    },
+    {
+        "Entity": "Romania",
+        "Code": "ROU",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "142445681.73292422"
+    },
+    {
+        "Entity": "Russia",
+        "Code": "RUS",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "1911925428.317358"
+    },
+    {
+        "Entity": "Russia",
+        "Code": "RUS",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "1918826273.6982765"
+    },
+    {
+        "Entity": "Russia",
+        "Code": "RUS",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "1925727119.079193"
+    },
+    {
+        "Entity": "Russia",
+        "Code": "RUS",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "1932627964.4601116"
+    },
+    {
+        "Entity": "Russia",
+        "Code": "RUS",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "1939528809.8410282"
+    },
+    {
+        "Entity": "Rwanda",
+        "Code": "RWA",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "830395.5506312102"
+    },
+    {
+        "Entity": "Rwanda",
+        "Code": "RWA",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "843846.351821743"
+    },
+    {
+        "Entity": "Rwanda",
+        "Code": "RWA",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "857297.1530122757"
+    },
+    {
+        "Entity": "Rwanda",
+        "Code": "RWA",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "870747.9542028047"
+    },
+    {
+        "Entity": "Rwanda",
+        "Code": "RWA",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "884198.7553933375"
+    },
+    {
+        "Entity": "Saint Helena",
+        "Code": "SHN",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "13226.327515484474"
+    },
+    {
+        "Entity": "Saint Helena",
+        "Code": "SHN",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "13433.886155044136"
+    },
+    {
+        "Entity": "Saint Helena",
+        "Code": "SHN",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "13641.44479460374"
+    },
+    {
+        "Entity": "Saint Helena",
+        "Code": "SHN",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "13849.003434163402"
+    },
+    {
+        "Entity": "Saint Helena",
+        "Code": "SHN",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "14056.562073723064"
+    },
+    {
+        "Entity": "Saint Kitts and Nevis",
+        "Code": "KNA",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "270719.7361261267"
+    },
+    {
+        "Entity": "Saint Kitts and Nevis",
+        "Code": "KNA",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "276916.4723233767"
+    },
+    {
+        "Entity": "Saint Kitts and Nevis",
+        "Code": "KNA",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "283113.20852062665"
+    },
+    {
+        "Entity": "Saint Kitts and Nevis",
+        "Code": "KNA",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "289309.9447178766"
+    },
+    {
+        "Entity": "Saint Kitts and Nevis",
+        "Code": "KNA",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "295506.6809151266"
+    },
+    {
+        "Entity": "Saint Lucia",
+        "Code": "LCA",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "432042.55150131695"
+    },
+    {
+        "Entity": "Saint Lucia",
+        "Code": "LCA",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "439434.8090000767"
+    },
+    {
+        "Entity": "Saint Lucia",
+        "Code": "LCA",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "446827.0664988365"
+    },
+    {
+        "Entity": "Saint Lucia",
+        "Code": "LCA",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "454219.3239975963"
+    },
+    {
+        "Entity": "Saint Lucia",
+        "Code": "LCA",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "461611.5814963542"
+    },
+    {
+        "Entity": "Saint Pierre and Miquelon",
+        "Code": "SPM",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "78219.45122475852"
+    },
+    {
+        "Entity": "Saint Pierre and Miquelon",
+        "Code": "SPM",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "78953.58640092378"
+    },
+    {
+        "Entity": "Saint Pierre and Miquelon",
+        "Code": "SPM",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "79687.72157708881"
+    },
+    {
+        "Entity": "Saint Pierre and Miquelon",
+        "Code": "SPM",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "80421.85675325408"
+    },
+    {
+        "Entity": "Saint Pierre and Miquelon",
+        "Code": "SPM",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "81155.99192941934"
+    },
+    {
+        "Entity": "Saint Vincent and the Grenadines",
+        "Code": "VCT",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "229926.82597453985"
+    },
+    {
+        "Entity": "Saint Vincent and the Grenadines",
+        "Code": "VCT",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "233936.58772912994"
+    },
+    {
+        "Entity": "Saint Vincent and the Grenadines",
+        "Code": "VCT",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "237946.34948372003"
+    },
+    {
+        "Entity": "Saint Vincent and the Grenadines",
+        "Code": "VCT",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "241956.1112383101"
+    },
+    {
+        "Entity": "Saint Vincent and the Grenadines",
+        "Code": "VCT",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "245965.8729929002"
+    },
+    {
+        "Entity": "Samoa",
+        "Code": "WSM",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "209272.56208077352"
+    },
+    {
+        "Entity": "Samoa",
+        "Code": "WSM",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "212590.942243387"
+    },
+    {
+        "Entity": "Samoa",
+        "Code": "WSM",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "215909.3224060014"
+    },
+    {
+        "Entity": "Samoa",
+        "Code": "WSM",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "219227.70256861486"
+    },
+    {
+        "Entity": "Samoa",
+        "Code": "WSM",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "222546.08273122925"
+    },
+    {
+        "Entity": "Sao Tome and Principe",
+        "Code": "STP",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "100314.77719131624"
+    },
+    {
+        "Entity": "Sao Tome and Principe",
+        "Code": "STP",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "101968.10049764533"
+    },
+    {
+        "Entity": "Sao Tome and Principe",
+        "Code": "STP",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "103621.42380397487"
+    },
+    {
+        "Entity": "Sao Tome and Principe",
+        "Code": "STP",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "105274.74711030396"
+    },
+    {
+        "Entity": "Sao Tome and Principe",
+        "Code": "STP",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "106928.0704166335"
+    },
+    {
+        "Entity": "Saudi Arabia",
+        "Code": "SAU",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "464865306.08859634"
+    },
+    {
+        "Entity": "Saudi Arabia",
+        "Code": "SAU",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "471966550.3242111"
+    },
+    {
+        "Entity": "Saudi Arabia",
+        "Code": "SAU",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "479067794.5598259"
+    },
+    {
+        "Entity": "Saudi Arabia",
+        "Code": "SAU",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "486169038.7954407"
+    },
+    {
+        "Entity": "Saudi Arabia",
+        "Code": "SAU",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "493270283.03105545"
+    },
+    {
+        "Entity": "Senegal",
+        "Code": "SEN",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "7035122.884778768"
+    },
+    {
+        "Entity": "Senegal",
+        "Code": "SEN",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "7153820.220218062"
+    },
+    {
+        "Entity": "Senegal",
+        "Code": "SEN",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "7272517.555657357"
+    },
+    {
+        "Entity": "Senegal",
+        "Code": "SEN",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "7391214.891096652"
+    },
+    {
+        "Entity": "Senegal",
+        "Code": "SEN",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "7509912.226535946"
+    },
+    {
+        "Entity": "Serbia",
+        "Code": "SRB",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "54578535.26527178"
+    },
+    {
+        "Entity": "Serbia",
+        "Code": "SRB",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "55052176.14488256"
+    },
+    {
+        "Entity": "Serbia",
+        "Code": "SRB",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "55525817.02449322"
+    },
+    {
+        "Entity": "Serbia",
+        "Code": "SRB",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "55999457.904103994"
+    },
+    {
+        "Entity": "Serbia",
+        "Code": "SRB",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "56473098.78371477"
+    },
+    {
+        "Entity": "Seychelles",
+        "Code": "SYC",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "637685.1628888883"
+    },
+    {
+        "Entity": "Seychelles",
+        "Code": "SYC",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "650808.0024401136"
+    },
+    {
+        "Entity": "Seychelles",
+        "Code": "SYC",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "663930.8419913426"
+    },
+    {
+        "Entity": "Seychelles",
+        "Code": "SYC",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "677053.6815425679"
+    },
+    {
+        "Entity": "Seychelles",
+        "Code": "SYC",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "690176.5210937932"
+    },
+    {
+        "Entity": "Sierra Leone",
+        "Code": "SLE",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "810529.9114574175"
+    },
+    {
+        "Entity": "Sierra Leone",
+        "Code": "SLE",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "818737.9528892618"
+    },
+    {
+        "Entity": "Sierra Leone",
+        "Code": "SLE",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "826945.9943211041"
+    },
+    {
+        "Entity": "Sierra Leone",
+        "Code": "SLE",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "835154.0357529484"
+    },
+    {
+        "Entity": "Sierra Leone",
+        "Code": "SLE",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "843362.0771847926"
+    },
+    {
+        "Entity": "Singapore",
+        "Code": "SGP",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "60318701.44173765"
+    },
+    {
+        "Entity": "Singapore",
+        "Code": "SGP",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "61240359.97134423"
+    },
+    {
+        "Entity": "Singapore",
+        "Code": "SGP",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "62162018.50095081"
+    },
+    {
+        "Entity": "Singapore",
+        "Code": "SGP",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "63083677.030557394"
+    },
+    {
+        "Entity": "Singapore",
+        "Code": "SGP",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "64005335.560163975"
+    },
+    {
+        "Entity": "Sint Maarten (Dutch part)",
+        "Code": "SXM",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "344565.4334506877"
+    },
+    {
+        "Entity": "Sint Maarten (Dutch part)",
+        "Code": "SXM",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "329062.70499669015"
+    },
+    {
+        "Entity": "Sint Maarten (Dutch part)",
+        "Code": "SXM",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "313559.97654269636"
+    },
+    {
+        "Entity": "Sint Maarten (Dutch part)",
+        "Code": "SXM",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "298057.24808869883"
+    },
+    {
+        "Entity": "Sint Maarten (Dutch part)",
+        "Code": "SXM",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "282554.51963470504"
+    },
+    {
+        "Entity": "Slovakia",
+        "Code": "SVK",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "42679440.47305083"
+    },
+    {
+        "Entity": "Slovakia",
+        "Code": "SVK",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "42559676.36130506"
+    },
+    {
+        "Entity": "Slovakia",
+        "Code": "SVK",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "42439912.24955931"
+    },
+    {
+        "Entity": "Slovakia",
+        "Code": "SVK",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "42320148.13781354"
+    },
+    {
+        "Entity": "Slovakia",
+        "Code": "SVK",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "42200384.02606776"
+    },
+    {
+        "Entity": "Slovenia",
+        "Code": "SVN",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "18906396.464681506"
+    },
+    {
+        "Entity": "Slovenia",
+        "Code": "SVN",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "19109386.895769775"
+    },
+    {
+        "Entity": "Slovenia",
+        "Code": "SVN",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "19312377.326858044"
+    },
+    {
+        "Entity": "Slovenia",
+        "Code": "SVN",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "19515367.757946253"
+    },
+    {
+        "Entity": "Slovenia",
+        "Code": "SVN",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "19718358.18903452"
+    },
+    {
+        "Entity": "Solomon Islands",
+        "Code": "SLB",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "227842.6757342657"
+    },
+    {
+        "Entity": "Solomon Islands",
+        "Code": "SLB",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "231403.27699091937"
+    },
+    {
+        "Entity": "Solomon Islands",
+        "Code": "SLB",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "234963.87824757304"
+    },
+    {
+        "Entity": "Solomon Islands",
+        "Code": "SLB",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "238524.4795042267"
+    },
+    {
+        "Entity": "Solomon Islands",
+        "Code": "SLB",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "242085.08076088037"
+    },
+    {
+        "Entity": "Somalia",
+        "Code": "SOM",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "827866.0848726965"
+    },
+    {
+        "Entity": "Somalia",
+        "Code": "SOM",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "838566.9911264665"
+    },
+    {
+        "Entity": "Somalia",
+        "Code": "SOM",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "849267.8973802365"
+    },
+    {
+        "Entity": "Somalia",
+        "Code": "SOM",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "859968.8036340028"
+    },
+    {
+        "Entity": "Somalia",
+        "Code": "SOM",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "870669.7098877728"
+    },
+    {
+        "Entity": "South Africa",
+        "Code": "ZAF",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "404598447.15875816"
+    },
+    {
+        "Entity": "South Africa",
+        "Code": "ZAF",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "408404839.87931633"
+    },
+    {
+        "Entity": "South Africa",
+        "Code": "ZAF",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "412211232.59987545"
+    },
+    {
+        "Entity": "South Africa",
+        "Code": "ZAF",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "416017625.3204346"
+    },
+    {
+        "Entity": "South Africa",
+        "Code": "ZAF",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "419824018.04099274"
+    },
+    {
+        "Entity": "South Korea",
+        "Code": "KOR",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "569561487.9714622"
+    },
+    {
+        "Entity": "South Korea",
+        "Code": "KOR",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "579110310.7753792"
+    },
+    {
+        "Entity": "South Korea",
+        "Code": "KOR",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "588659133.5792999"
+    },
+    {
+        "Entity": "South Korea",
+        "Code": "KOR",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "598207956.3832207"
+    },
+    {
+        "Entity": "South Korea",
+        "Code": "KOR",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "607756779.1871376"
+    },
+    {
+        "Entity": "South Sudan",
+        "Code": "SSD",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "1187242.4920858294"
+    },
+    {
+        "Entity": "South Sudan",
+        "Code": "SSD",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "1208190.5562891364"
+    },
+    {
+        "Entity": "South Sudan",
+        "Code": "SSD",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "1229138.6204924434"
+    },
+    {
+        "Entity": "South Sudan",
+        "Code": "SSD",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "1250086.6846957505"
+    },
+    {
+        "Entity": "South Sudan",
+        "Code": "SSD",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "1271034.7488990575"
+    },
+    {
+        "Entity": "Spain",
+        "Code": "ESP",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "229336034.80883408"
+    },
+    {
+        "Entity": "Spain",
+        "Code": "ESP",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "230967189.21007156"
+    },
+    {
+        "Entity": "Spain",
+        "Code": "ESP",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "232598343.61130857"
+    },
+    {
+        "Entity": "Spain",
+        "Code": "ESP",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "234229498.01254606"
+    },
+    {
+        "Entity": "Spain",
+        "Code": "ESP",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "235860652.41378307"
+    },
+    {
+        "Entity": "Sri Lanka",
+        "Code": "LKA",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "14571134.987919211"
+    },
+    {
+        "Entity": "Sri Lanka",
+        "Code": "LKA",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "14807517.39201492"
+    },
+    {
+        "Entity": "Sri Lanka",
+        "Code": "LKA",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "15043899.79611057"
+    },
+    {
+        "Entity": "Sri Lanka",
+        "Code": "LKA",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "15280282.20020628"
+    },
+    {
+        "Entity": "Sri Lanka",
+        "Code": "LKA",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "15516664.60430199"
+    },
+    {
+        "Entity": "Statistical differences",
+        "Code": null,
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "-103817716.15022671"
+    },
+    {
+        "Entity": "Statistical differences",
+        "Code": null,
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "-104376887.45096004"
+    },
+    {
+        "Entity": "Statistical differences",
+        "Code": null,
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "-104936058.75169337"
+    },
+    {
+        "Entity": "Statistical differences",
+        "Code": null,
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "-105495230.05242693"
+    },
+    {
+        "Entity": "Statistical differences",
+        "Code": null,
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "-106054401.35316026"
+    },
+    {
+        "Entity": "Sudan",
+        "Code": "SDN",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "12826776.179692328"
+    },
+    {
+        "Entity": "Sudan",
+        "Code": "SDN",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "13032673.287723184"
+    },
+    {
+        "Entity": "Sudan",
+        "Code": "SDN",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "13238570.395754099"
+    },
+    {
+        "Entity": "Sudan",
+        "Code": "SDN",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "13444467.503784955"
+    },
+    {
+        "Entity": "Sudan",
+        "Code": "SDN",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "13650364.61181587"
+    },
+    {
+        "Entity": "Suriname",
+        "Code": "SUR",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "2468607.3903380185"
+    },
+    {
+        "Entity": "Suriname",
+        "Code": "SUR",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "2495668.642683707"
+    },
+    {
+        "Entity": "Suriname",
+        "Code": "SUR",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "2522729.895029396"
+    },
+    {
+        "Entity": "Suriname",
+        "Code": "SUR",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "2549791.1473750845"
+    },
+    {
+        "Entity": "Suriname",
+        "Code": "SUR",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "2576852.399720773"
+    },
+    {
+        "Entity": "Swaziland",
+        "Code": "SWZ",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "1222914.5420863554"
+    },
+    {
+        "Entity": "Swaziland",
+        "Code": "SWZ",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "1243238.5061479658"
+    },
+    {
+        "Entity": "Swaziland",
+        "Code": "SWZ",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "1263562.4702095762"
+    },
+    {
+        "Entity": "Swaziland",
+        "Code": "SWZ",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "1283886.434271194"
+    },
+    {
+        "Entity": "Swaziland",
+        "Code": "SWZ",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "1304210.3983328044"
+    },
+    {
+        "Entity": "Sweden",
+        "Code": "SWE",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "67078521.77103555"
+    },
+    {
+        "Entity": "Sweden",
+        "Code": "SWE",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "67521347.87007475"
+    },
+    {
+        "Entity": "Sweden",
+        "Code": "SWE",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "67964173.96911407"
+    },
+    {
+        "Entity": "Sweden",
+        "Code": "SWE",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "68407000.06815338"
+    },
+    {
+        "Entity": "Sweden",
+        "Code": "SWE",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "68849826.1671927"
+    },
+    {
+        "Entity": "Switzerland",
+        "Code": "CHE",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "45548915.81220281"
+    },
+    {
+        "Entity": "Switzerland",
+        "Code": "CHE",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "45888126.63012934"
+    },
+    {
+        "Entity": "Switzerland",
+        "Code": "CHE",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "46227337.448055744"
+    },
+    {
+        "Entity": "Switzerland",
+        "Code": "CHE",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "46566548.26598215"
+    },
+    {
+        "Entity": "Switzerland",
+        "Code": "CHE",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "46905759.08390856"
+    },
+    {
+        "Entity": "Syria",
+        "Code": "SYR",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "52802695.01591277"
+    },
+    {
+        "Entity": "Syria",
+        "Code": "SYR",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "53542362.96083307"
+    },
+    {
+        "Entity": "Syria",
+        "Code": "SYR",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "54282030.905753136"
+    },
+    {
+        "Entity": "Syria",
+        "Code": "SYR",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "55021698.85067344"
+    },
+    {
+        "Entity": "Syria",
+        "Code": "SYR",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "55761366.7955935"
+    },
+    {
+        "Entity": "Taiwan",
+        "Code": "TWN",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "202755676.90270472"
+    },
+    {
+        "Entity": "Taiwan",
+        "Code": "TWN",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "204979484.3057847"
+    },
+    {
+        "Entity": "Taiwan",
+        "Code": "TWN",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "207203291.7088647"
+    },
+    {
+        "Entity": "Taiwan",
+        "Code": "TWN",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "209427099.11194468"
+    },
+    {
+        "Entity": "Taiwan",
+        "Code": "TWN",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "211650906.51502466"
+    },
+    {
+        "Entity": "Tajikistan",
+        "Code": "TJK",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "3815996.5445295274"
+    },
+    {
+        "Entity": "Tajikistan",
+        "Code": "TJK",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "3780787.8363132775"
+    },
+    {
+        "Entity": "Tajikistan",
+        "Code": "TJK",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "3745579.1280970275"
+    },
+    {
+        "Entity": "Tajikistan",
+        "Code": "TJK",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "3710370.4198807776"
+    },
+    {
+        "Entity": "Tajikistan",
+        "Code": "TJK",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "3675161.7116645277"
+    },
+    {
+        "Entity": "Tanzania",
+        "Code": "TZA",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "8764641.52266848"
+    },
+    {
+        "Entity": "Tanzania",
+        "Code": "TZA",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "8949220.358687222"
+    },
+    {
+        "Entity": "Tanzania",
+        "Code": "TZA",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "9133799.194706023"
+    },
+    {
+        "Entity": "Tanzania",
+        "Code": "TZA",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "9318378.030724764"
+    },
+    {
+        "Entity": "Tanzania",
+        "Code": "TZA",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "9502956.866743565"
+    },
+    {
+        "Entity": "Thailand",
+        "Code": "THA",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "243697701.49129963"
+    },
+    {
+        "Entity": "Thailand",
+        "Code": "THA",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "247428606.78191185"
+    },
+    {
+        "Entity": "Thailand",
+        "Code": "THA",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "251159512.07252502"
+    },
+    {
+        "Entity": "Thailand",
+        "Code": "THA",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "254890417.36313725"
+    },
+    {
+        "Entity": "Thailand",
+        "Code": "THA",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "258621322.65374947"
+    },
+    {
+        "Entity": "Timor",
+        "Code": "TLS",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "537467.9205000028"
+    },
+    {
+        "Entity": "Timor",
+        "Code": "TLS",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "565923.2207794115"
+    },
+    {
+        "Entity": "Timor",
+        "Code": "TLS",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "594378.5210588276"
+    },
+    {
+        "Entity": "Timor",
+        "Code": "TLS",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "622833.8213382363"
+    },
+    {
+        "Entity": "Timor",
+        "Code": "TLS",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "651289.121617645"
+    },
+    {
+        "Entity": "Togo",
+        "Code": "TGO",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "2278779.5342800617"
+    },
+    {
+        "Entity": "Togo",
+        "Code": "TGO",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "2318116.2318210006"
+    },
+    {
+        "Entity": "Togo",
+        "Code": "TGO",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "2357452.9293619394"
+    },
+    {
+        "Entity": "Togo",
+        "Code": "TGO",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "2396789.6269028783"
+    },
+    {
+        "Entity": "Togo",
+        "Code": "TGO",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "2436126.324443817"
+    },
+    {
+        "Entity": "Tonga",
+        "Code": "TON",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "133537.67850746214"
+    },
+    {
+        "Entity": "Tonga",
+        "Code": "TON",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "135717.94696377404"
+    },
+    {
+        "Entity": "Tonga",
+        "Code": "TON",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "137898.21542008594"
+    },
+    {
+        "Entity": "Tonga",
+        "Code": "TON",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "140078.48387639783"
+    },
+    {
+        "Entity": "Tonga",
+        "Code": "TON",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "142258.75233270973"
+    },
+    {
+        "Entity": "Trinidad and Tobago",
+        "Code": "TTO",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "33476787.778253436"
+    },
+    {
+        "Entity": "Trinidad and Tobago",
+        "Code": "TTO",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "33841513.458521724"
+    },
+    {
+        "Entity": "Trinidad and Tobago",
+        "Code": "TTO",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "34206239.13879001"
+    },
+    {
+        "Entity": "Trinidad and Tobago",
+        "Code": "TTO",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "34570964.8190583"
+    },
+    {
+        "Entity": "Trinidad and Tobago",
+        "Code": "TTO",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "34935690.49932659"
+    },
+    {
+        "Entity": "Tunisia",
+        "Code": "TUN",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "23205115.940980315"
+    },
+    {
+        "Entity": "Tunisia",
+        "Code": "TUN",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "23508664.188712955"
+    },
+    {
+        "Entity": "Tunisia",
+        "Code": "TUN",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "23812212.436445475"
+    },
+    {
+        "Entity": "Tunisia",
+        "Code": "TUN",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "24115760.684178114"
+    },
+    {
+        "Entity": "Tunisia",
+        "Code": "TUN",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "24419308.931910634"
+    },
+    {
+        "Entity": "Turkey",
+        "Code": "TUR",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "205115100.2508812"
+    },
+    {
+        "Entity": "Turkey",
+        "Code": "TUR",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "206963850.277555"
+    },
+    {
+        "Entity": "Turkey",
+        "Code": "TUR",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "208812600.30422926"
+    },
+    {
+        "Entity": "Turkey",
+        "Code": "TUR",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "210661350.33090305"
+    },
+    {
+        "Entity": "Turkey",
+        "Code": "TUR",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "212510100.35757685"
+    },
+    {
+        "Entity": "Turkmenistan",
+        "Code": "TKM",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "62393596.82736421"
+    },
+    {
+        "Entity": "Turkmenistan",
+        "Code": "TKM",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "63239952.83193159"
+    },
+    {
+        "Entity": "Turkmenistan",
+        "Code": "TKM",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "64086308.836499214"
+    },
+    {
+        "Entity": "Turkmenistan",
+        "Code": "TKM",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "64932664.8410666"
+    },
+    {
+        "Entity": "Turkmenistan",
+        "Code": "TKM",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "65779020.84563422"
+    },
+    {
+        "Entity": "Turks and Caicos Islands",
+        "Code": "TCA",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "238655.9809523821"
+    },
+    {
+        "Entity": "Turks and Caicos Islands",
+        "Code": "TCA",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "246941.92010673322"
+    },
+    {
+        "Entity": "Turks and Caicos Islands",
+        "Code": "TCA",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "255227.85926108435"
+    },
+    {
+        "Entity": "Turks and Caicos Islands",
+        "Code": "TCA",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "263513.7984154355"
+    },
+    {
+        "Entity": "Turks and Caicos Islands",
+        "Code": "TCA",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "271799.7375697866"
+    },
+    {
+        "Entity": "Tuvalu",
+        "Code": "TUV",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "11902.627857142827"
+    },
+    {
+        "Entity": "Tuvalu",
+        "Code": "TUV",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "12090.684507389145"
+    },
+    {
+        "Entity": "Tuvalu",
+        "Code": "TUV",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "12278.741157635406"
+    },
+    {
+        "Entity": "Tuvalu",
+        "Code": "TUV",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "12466.797807881725"
+    },
+    {
+        "Entity": "Tuvalu",
+        "Code": "TUV",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "12654.854458128044"
+    },
+    {
+        "Entity": "Uganda",
+        "Code": "UGA",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "3305439.354666367"
+    },
+    {
+        "Entity": "Uganda",
+        "Code": "UGA",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "3360729.5149849206"
+    },
+    {
+        "Entity": "Uganda",
+        "Code": "UGA",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "3416019.675303459"
+    },
+    {
+        "Entity": "Uganda",
+        "Code": "UGA",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "3471309.8356220126"
+    },
+    {
+        "Entity": "Uganda",
+        "Code": "UGA",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "3526599.995940566"
+    },
+    {
+        "Entity": "Ukraine",
+        "Code": "UKR",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "348686163.36756325"
+    },
+    {
+        "Entity": "Ukraine",
+        "Code": "UKR",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "345734805.9334307"
+    },
+    {
+        "Entity": "Ukraine",
+        "Code": "UKR",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "342783448.49929905"
+    },
+    {
+        "Entity": "Ukraine",
+        "Code": "UKR",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "339832091.0651665"
+    },
+    {
+        "Entity": "Ukraine",
+        "Code": "UKR",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "336880733.63103485"
+    },
+    {
+        "Entity": "United Arab Emirates",
+        "Code": "ARE",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "174164316.7918005"
+    },
+    {
+        "Entity": "United Arab Emirates",
+        "Code": "ARE",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "177622489.51375294"
+    },
+    {
+        "Entity": "United Arab Emirates",
+        "Code": "ARE",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "181080662.23570633"
+    },
+    {
+        "Entity": "United Arab Emirates",
+        "Code": "ARE",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "184538834.95765877"
+    },
+    {
+        "Entity": "United Arab Emirates",
+        "Code": "ARE",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "187997007.6796112"
+    },
+    {
+        "Entity": "United Kingdom",
+        "Code": "GBR",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "660498529.4119291"
+    },
+    {
+        "Entity": "United Kingdom",
+        "Code": "GBR",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "663273476.354312"
+    },
+    {
+        "Entity": "United Kingdom",
+        "Code": "GBR",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "666048423.2966957"
+    },
+    {
+        "Entity": "United Kingdom",
+        "Code": "GBR",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "668823370.2390785"
+    },
+    {
+        "Entity": "United Kingdom",
+        "Code": "GBR",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "671598317.1814613"
+    },
+    {
+        "Entity": "United States",
+        "Code": "USA",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "4518415918.964455"
+    },
+    {
+        "Entity": "United States",
+        "Code": "USA",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "4540972761.408485"
+    },
+    {
+        "Entity": "United States",
+        "Code": "USA",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "4563529603.852516"
+    },
+    {
+        "Entity": "United States",
+        "Code": "USA",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "4586086446.296547"
+    },
+    {
+        "Entity": "United States",
+        "Code": "USA",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "4608643288.740578"
+    },
+    {
+        "Entity": "Uruguay",
+        "Code": "URY",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "7586868.808538973"
+    },
+    {
+        "Entity": "Uruguay",
+        "Code": "URY",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "7666900.558232725"
+    },
+    {
+        "Entity": "Uruguay",
+        "Code": "URY",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "7746932.307926506"
+    },
+    {
+        "Entity": "Uruguay",
+        "Code": "URY",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "7826964.057620257"
+    },
+    {
+        "Entity": "Uruguay",
+        "Code": "URY",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "7906995.8073140085"
+    },
+    {
+        "Entity": "Uzbekistan",
+        "Code": "UZB",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "131529625.40820551"
+    },
+    {
+        "Entity": "Uzbekistan",
+        "Code": "UZB",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "132504745.22110629"
+    },
+    {
+        "Entity": "Uzbekistan",
+        "Code": "UZB",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "133479865.03400683"
+    },
+    {
+        "Entity": "Uzbekistan",
+        "Code": "UZB",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "134454984.84690762"
+    },
+    {
+        "Entity": "Uzbekistan",
+        "Code": "UZB",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "135430104.65980816"
+    },
+    {
+        "Entity": "Vanuatu",
+        "Code": "VUT",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "120419.35762337688"
+    },
+    {
+        "Entity": "Vanuatu",
+        "Code": "VUT",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "121940.9265249488"
+    },
+    {
+        "Entity": "Vanuatu",
+        "Code": "VUT",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "123462.49542652117"
+    },
+    {
+        "Entity": "Vanuatu",
+        "Code": "VUT",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "124984.06432809308"
+    },
+    {
+        "Entity": "Vanuatu",
+        "Code": "VUT",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "126505.63322966546"
+    },
+    {
+        "Entity": "Venezuela",
+        "Code": "VEN",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "174932018.098938"
+    },
+    {
+        "Entity": "Venezuela",
+        "Code": "VEN",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "176854933.47074032"
+    },
+    {
+        "Entity": "Venezuela",
+        "Code": "VEN",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "178777848.84254265"
+    },
+    {
+        "Entity": "Venezuela",
+        "Code": "VEN",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "180700764.21434498"
+    },
+    {
+        "Entity": "Venezuela",
+        "Code": "VEN",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "182623679.5861473"
+    },
+    {
+        "Entity": "Vietnam",
+        "Code": "VNM",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "84968311.26015544"
+    },
+    {
+        "Entity": "Vietnam",
+        "Code": "VNM",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "85831140.48754215"
+    },
+    {
+        "Entity": "Vietnam",
+        "Code": "VNM",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "86693969.71492887"
+    },
+    {
+        "Entity": "Vietnam",
+        "Code": "VNM",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "87556798.94231582"
+    },
+    {
+        "Entity": "Vietnam",
+        "Code": "VNM",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "88419628.16970253"
+    },
+    {
+        "Entity": "Wallis and Futuna Islands",
+        "Code": null,
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "25528.829779411764"
+    },
+    {
+        "Entity": "Wallis and Futuna Islands",
+        "Code": null,
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "25557.698774509805"
+    },
+    {
+        "Entity": "Wallis and Futuna Islands",
+        "Code": null,
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "25586.567769607846"
+    },
+    {
+        "Entity": "Wallis and Futuna Islands",
+        "Code": null,
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "25615.436764705886"
+    },
+    {
+        "Entity": "Wallis and Futuna Islands",
+        "Code": null,
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "25644.30575980392"
+    },
+    {
+        "Entity": "World",
+        "Code": "OWID_WRL",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "18874274001.566406"
+    },
+    {
+        "Entity": "World",
+        "Code": "OWID_WRL",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "18971098498.76544"
+    },
+    {
+        "Entity": "World",
+        "Code": "OWID_WRL",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "19067922995.964508"
+    },
+    {
+        "Entity": "World",
+        "Code": "OWID_WRL",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "19164747493.163544"
+    },
+    {
+        "Entity": "World",
+        "Code": "OWID_WRL",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "19261571990.36258"
+    },
+    {
+        "Entity": "Yemen",
+        "Code": "YEM",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "20857748.327980638"
+    },
+    {
+        "Entity": "Yemen",
+        "Code": "YEM",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "21198282.90743196"
+    },
+    {
+        "Entity": "Yemen",
+        "Code": "YEM",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "21538817.486883283"
+    },
+    {
+        "Entity": "Yemen",
+        "Code": "YEM",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "21879352.066334486"
+    },
+    {
+        "Entity": "Yemen",
+        "Code": "YEM",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "22219886.64578581"
+    },
+    {
+        "Entity": "Zambia",
+        "Code": "ZMB",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "2436946.1318702474"
+    },
+    {
+        "Entity": "Zambia",
+        "Code": "ZMB",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "2412319.703621857"
+    },
+    {
+        "Entity": "Zambia",
+        "Code": "ZMB",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "2387693.275373459"
+    },
+    {
+        "Entity": "Zambia",
+        "Code": "ZMB",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "2363066.8471250683"
+    },
+    {
+        "Entity": "Zambia",
+        "Code": "ZMB",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "2338440.4188766778"
+    },
+    {
+        "Entity": "Zimbabwe",
+        "Code": "ZWE",
+        "Year": "2018",
+        "Annual CO2 emissions (tonnes )": "13910345.4738397"
+    },
+    {
+        "Entity": "Zimbabwe",
+        "Code": "ZWE",
+        "Year": "2019",
+        "Annual CO2 emissions (tonnes )": "14037110.942199886"
+    },
+    {
+        "Entity": "Zimbabwe",
+        "Code": "ZWE",
+        "Year": "2020",
+        "Annual CO2 emissions (tonnes )": "14163876.410560071"
+    },
+    {
+        "Entity": "Zimbabwe",
+        "Code": "ZWE",
+        "Year": "2021",
+        "Annual CO2 emissions (tonnes )": "14290641.878920287"
+    },
+    {
+        "Entity": "Zimbabwe",
+        "Code": "ZWE",
+        "Year": "2022",
+        "Annual CO2 emissions (tonnes )": "14417407.347280473"
+    }
+]
