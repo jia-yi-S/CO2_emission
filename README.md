@@ -1,5 +1,5 @@
 # world map of Carbon emmision 
-This is a map websit which can show co2 emission in each countries form 2099 to 1940.
+This is a map websit which can show co2 emission in each countries form 2099 to 1949.
 
 > here is ML code done by my teammate:https://github.com/YiqingZhang317/CO2_emission
 
